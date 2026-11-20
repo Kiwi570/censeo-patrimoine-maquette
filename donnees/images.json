@@ -1,0 +1,1388 @@
+{
+  "grok/accueil-ouverture": {
+    "nom": "grok/accueil-ouverture",
+    "source": "recu/grok/accueil-ouverture.jpg",
+    "role": "ouverture",
+    "alt": "Cour intérieure d'un hôtel particulier en pierre blonde, escalier de pierre au fond",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 5,
+    "empreinte": "c90b9e2423ec94b4",
+    "ratio": "16:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "9:16",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "50% 64%"
+    },
+    "cadrage": "50% 60%",
+    "sujet": {
+      "x": 40.6,
+      "y": 0,
+      "l": 53.1,
+      "h": 97.6
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.77,
+        "ton": "sombre"
+      },
+      {
+        "cote": "haut",
+        "score": 0.31,
+        "ton": "sombre"
+      },
+      {
+        "cote": "bas",
+        "score": 0.28,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0.01,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": "gauche",
+    "recadrage": {
+      "left": 0,
+      "top": 51,
+      "width": 1700,
+      "height": 956,
+      "source": [
+        1700,
+        1141
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,13 fois (source de 1700 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/accueil-ouverture-640.webp",
+      "grok/accueil-ouverture-1280.webp",
+      "grok/accueil-ouverture-1920.webp",
+      "grok/accueil-ouverture-mobile-640.webp",
+      "grok/accueil-ouverture-mobile-1080.webp"
+    ],
+    "poids": {
+      "grok/accueil-ouverture-640.webp": 29342,
+      "grok/accueil-ouverture-1280.webp": 90414,
+      "grok/accueil-ouverture-1920.webp": 145672,
+      "grok/accueil-ouverture-mobile-640.webp": 91744,
+      "grok/accueil-ouverture-mobile-1080.webp": 186404
+    },
+    "media": "c.media({ nom: 'grok/accueil-ouverture', alt: \"Cour intérieure d'un hôtel particulier en pierre blonde, escalier de pierre au fond\", cadrage: '50% 60%', cadrageMobile: '50% 64%', sizes: '100vw', priorite: true })"
+  },
+  "grok/accueil-financier": {
+    "nom": "grok/accueil-financier",
+    "source": "recu/grok/accueil-financier.jpg",
+    "role": "carte-service",
+    "alt": "Bureau en chêne près d'une haute fenêtre, carnet ouvert et stylo plume",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "470ec8e4efa27f45",
+    "ratio": "2:3",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "38% 46%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 87,
+      "h": 75
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.31,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0.05,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.03,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1311,
+      "height": 1967,
+      "source": [
+        1320,
+        1967
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/accueil-financier-480.webp",
+      "grok/accueil-financier-640.webp",
+      "grok/accueil-financier-784.webp"
+    ],
+    "poids": {
+      "grok/accueil-financier-480.webp": 51520,
+      "grok/accueil-financier-640.webp": 81928,
+      "grok/accueil-financier-784.webp": 109204
+    },
+    "media": "c.media({ nom: 'grok/accueil-financier', alt: \"Bureau en chêne près d'une haute fenêtre, carnet ouvert et stylo plume\", cadrage: '38% 46%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '2 / 3' })"
+  },
+  "grok/accueil-immobilier": {
+    "nom": "grok/accueil-immobilier",
+    "source": "recu/grok/accueil-immobilier.jpg",
+    "role": "carte-service",
+    "alt": "Façade d'immeuble ancien en pierre blonde, volets et balcons en fer forgé",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 5,
+    "empreinte": "1758aa4c11bfe7fa",
+    "ratio": "2:3",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "56% 46%",
+    "sujet": {
+      "x": 0,
+      "y": 3.1,
+      "l": 96.2,
+      "h": 96.9
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.03,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1311,
+      "height": 1967,
+      "source": [
+        1320,
+        1967
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/accueil-immobilier-480.webp",
+      "grok/accueil-immobilier-640.webp",
+      "grok/accueil-immobilier-784.webp"
+    ],
+    "poids": {
+      "grok/accueil-immobilier-480.webp": 55318,
+      "grok/accueil-immobilier-640.webp": 89558,
+      "grok/accueil-immobilier-784.webp": 121210
+    },
+    "media": "c.media({ nom: 'grok/accueil-immobilier', alt: \"Façade d'immeuble ancien en pierre blonde, volets et balcons en fer forgé\", cadrage: '56% 46%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '2 / 3' })"
+  },
+  "grok/pierre-texture": {
+    "nom": "grok/pierre-texture",
+    "source": "recu/grok/pierre-texture.jpg",
+    "role": "section-fond",
+    "alt": "",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "b9441ec9eae4eb84",
+    "ratio": "3:2",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": null,
+    "cadrage": "62% 41%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 100,
+      "h": 96.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.42,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.39,
+        "ton": "clair"
+      },
+      {
+        "cote": "haut",
+        "score": 0.25,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.24,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1700,
+      "height": 1133,
+      "source": [
+        1700,
+        1141
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,13 fois (source de 1700 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/pierre-texture-640.webp",
+      "grok/pierre-texture-1280.webp",
+      "grok/pierre-texture-1920.webp"
+    ],
+    "poids": {
+      "grok/pierre-texture-640.webp": 58958,
+      "grok/pierre-texture-1280.webp": 186956,
+      "grok/pierre-texture-1920.webp": 300014
+    },
+    "media": "c.media({ nom: 'grok/pierre-texture', alt: \"\", cadrage: '62% 41%', sizes: '100vw' })"
+  },
+  "grok/accueil-bureau": {
+    "nom": "grok/accueil-bureau",
+    "source": "recu/grok/accueil-bureau.jpg",
+    "role": "section-fond",
+    "alt": "Bureau de rendez-vous : table ronde en chêne et deux fauteuils près d'une haute fenêtre",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 5,
+    "empreinte": "6f37a15a2f0dac39",
+    "ratio": "3:2",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": null,
+    "cadrage": "36% 40%",
+    "sujet": {
+      "x": 3.1,
+      "y": 0,
+      "l": 81.3,
+      "h": 91.5
+    },
+    "zones_calmes": [
+      {
+        "cote": "droite",
+        "score": 0.26,
+        "ton": "sombre"
+      },
+      {
+        "cote": "bas",
+        "score": 0.24,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": "droite",
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1700,
+      "height": 1133,
+      "source": [
+        1700,
+        1141
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,13 fois (source de 1700 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/accueil-bureau-640.webp",
+      "grok/accueil-bureau-1280.webp",
+      "grok/accueil-bureau-1920.webp"
+    ],
+    "poids": {
+      "grok/accueil-bureau-640.webp": 33954,
+      "grok/accueil-bureau-1280.webp": 92046,
+      "grok/accueil-bureau-1920.webp": 148284
+    },
+    "media": "c.media({ nom: 'grok/accueil-bureau', alt: \"Bureau de rendez-vous : table ronde en chêne et deux fauteuils près d'une haute fenêtre\", cadrage: '36% 40%', sizes: '100vw' })"
+  },
+  "portrait-kassigian": {
+    "nom": "portrait-kassigian",
+    "source": "recu/contact-censeo-patrimoine.png",
+    "role": "portrait",
+    "alt": "Jean-Marie Kassigian, conseiller en gestion de patrimoine",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "5606a0797c4e1a7d",
+    "ratio": "4:5",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "51% 38%",
+    "sujet": {
+      "x": 0,
+      "y": 6.3,
+      "l": 73.9,
+      "h": 90.6
+    },
+    "zones_calmes": [
+      {
+        "cote": "droite",
+        "score": 0.57,
+        "ton": "clair"
+      },
+      {
+        "cote": "haut",
+        "score": 0.41,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.4,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.38,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 27,
+      "top": 0,
+      "width": 688,
+      "height": 860,
+      "source": [
+        723,
+        860
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "723 px de large"
+    ],
+    "avertissements": [
+      "agrandie 1,14 fois (source de 688 px après recadrage)"
+    ],
+    "fichiers": [
+      "portrait-kassigian-480.webp",
+      "portrait-kassigian-640.webp",
+      "portrait-kassigian-784.webp"
+    ],
+    "poids": {
+      "portrait-kassigian-480.webp": 16548,
+      "portrait-kassigian-640.webp": 26638,
+      "portrait-kassigian-784.webp": 36202
+    },
+    "media": "c.media({ nom: 'portrait-kassigian', alt: \"Jean-Marie Kassigian, conseiller en gestion de patrimoine\", cadrage: '51% 38%', sizes: '(max-width: 760px) 100vw, 40vw', ratio: '4 / 5' })"
+  },
+  "grok/accueil-rue": {
+    "nom": "grok/accueil-rue",
+    "source": "recu/grok/accueil-rue.jpg",
+    "role": "section-fond",
+    "alt": "Rue piétonne de vieille ville en pierre blonde au soleil du matin",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "720fea39f6ed3cb9",
+    "ratio": "3:2",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": null,
+    "cadrage": "62% 50%",
+    "sujet": {
+      "x": 28.1,
+      "y": 0,
+      "l": 71.9,
+      "h": 96.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.51,
+        "ton": "sombre"
+      },
+      {
+        "cote": "bas",
+        "score": 0.31,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": "gauche",
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1700,
+      "height": 1133,
+      "source": [
+        1700,
+        1141
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,13 fois (source de 1700 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/accueil-rue-640.webp",
+      "grok/accueil-rue-1280.webp",
+      "grok/accueil-rue-1920.webp"
+    ],
+    "poids": {
+      "grok/accueil-rue-640.webp": 43634,
+      "grok/accueil-rue-1280.webp": 119712,
+      "grok/accueil-rue-1920.webp": 191812
+    },
+    "media": "c.media({ nom: 'grok/accueil-rue', alt: \"Rue piétonne de vieille ville en pierre blonde au soleil du matin\", cadrage: '62% 50%', sizes: '100vw' })"
+  },
+  "grok/accueil-loge": {
+    "nom": "grok/accueil-loge",
+    "source": "recu/grok/accueil-loge.jpg",
+    "role": "section-fond",
+    "alt": "Arcades de pierre éclairées à la tombée du jour",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 3,
+    "empreinte": "a468ffa8045ec2f0",
+    "ratio": "3:2",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": null,
+    "cadrage": "72% 62%",
+    "sujet": {
+      "x": 0,
+      "y": 32,
+      "l": 96.9,
+      "h": 59.5
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.76,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.29,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0.29,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.12,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": "haut",
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1700,
+      "height": 1133,
+      "source": [
+        1700,
+        1141
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,13 fois (source de 1700 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/accueil-loge-640.webp",
+      "grok/accueil-loge-1280.webp",
+      "grok/accueil-loge-1920.webp"
+    ],
+    "poids": {
+      "grok/accueil-loge-640.webp": 30848,
+      "grok/accueil-loge-1280.webp": 101942,
+      "grok/accueil-loge-1920.webp": 167020
+    },
+    "media": "c.media({ nom: 'grok/accueil-loge', alt: \"Arcades de pierre éclairées à la tombée du jour\", cadrage: '72% 62%', sizes: '100vw' })"
+  },
+  "grok/financiere-ouverture": {
+    "nom": "grok/financiere-ouverture",
+    "source": "recu/grok/financiere-ouverture.jpg",
+    "role": "section-fond",
+    "alt": "Grande table de travail en chêne, carnet, lampe en laiton et rapports reliés",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 5,
+    "empreinte": "9da504cc57a1857b",
+    "ratio": "21:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": null,
+    "cadrage": "34% 66%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 84.4,
+      "h": 100
+    },
+    "zones_calmes": [
+      {
+        "cote": "droite",
+        "score": 0.35,
+        "ton": "sombre"
+      },
+      {
+        "cote": "bas",
+        "score": 0.16,
+        "ton": "sombre"
+      },
+      {
+        "cote": "haut",
+        "score": 0.08,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": "haut",
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1700,
+      "height": 729,
+      "source": [
+        1700,
+        1141
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,13 fois (source de 1700 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/financiere-ouverture-640.webp",
+      "grok/financiere-ouverture-1280.webp",
+      "grok/financiere-ouverture-1920.webp"
+    ],
+    "poids": {
+      "grok/financiere-ouverture-640.webp": 19660,
+      "grok/financiere-ouverture-1280.webp": 47242,
+      "grok/financiere-ouverture-1920.webp": 76900
+    },
+    "media": "c.media({ nom: 'grok/financiere-ouverture', alt: \"Grande table de travail en chêne, carnet, lampe en laiton et rapports reliés\", cadrage: '34% 66%', sizes: '100vw' })"
+  },
+  "grok/financiere-forets": {
+    "nom": "grok/financiere-forets",
+    "source": "recu/grok/financiere-forets.jpg",
+    "role": "galerie",
+    "alt": "Forêt de chênes et de pins traversée par la lumière",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "4aea62b0a0419f5d",
+    "ratio": "3:4",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "55% 54%",
+    "sujet": {
+      "x": 18.2,
+      "y": 0,
+      "l": 77.3,
+      "h": 90.9
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.19,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.1,
+        "ton": "sombre"
+      },
+      {
+        "cote": "haut",
+        "score": 0.03,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0.01,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 124,
+      "width": 1320,
+      "height": 1760,
+      "source": [
+        1320,
+        1967
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/financiere-forets-480.webp",
+      "grok/financiere-forets-640.webp",
+      "grok/financiere-forets-960.webp"
+    ],
+    "poids": {
+      "grok/financiere-forets-480.webp": 77576,
+      "grok/financiere-forets-640.webp": 119444,
+      "grok/financiere-forets-960.webp": 198982
+    },
+    "media": "c.media({ nom: 'grok/financiere-forets', alt: \"Forêt de chênes et de pins traversée par la lumière\", cadrage: '55% 54%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '3 / 4' })"
+  },
+  "grok/financiere-art": {
+    "nom": "grok/financiere-art",
+    "source": "recu/grok/financiere-art.jpg",
+    "role": "galerie",
+    "alt": "Salle de galerie calme avec deux grandes toiles abstraites",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "97db95b81eb79077",
+    "ratio": "3:4",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "55% 49%",
+    "sujet": {
+      "x": 0,
+      "y": 9.1,
+      "l": 95.5,
+      "h": 90.9
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.29,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.15,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.13,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.04,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 146,
+      "width": 1320,
+      "height": 1760,
+      "source": [
+        1320,
+        1967
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/financiere-art-480.webp",
+      "grok/financiere-art-640.webp",
+      "grok/financiere-art-960.webp"
+    ],
+    "poids": {
+      "grok/financiere-art-480.webp": 49338,
+      "grok/financiere-art-640.webp": 79208,
+      "grok/financiere-art-960.webp": 142504
+    },
+    "media": "c.media({ nom: 'grok/financiere-art', alt: \"Salle de galerie calme avec deux grandes toiles abstraites\", cadrage: '55% 49%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '3 / 4' })"
+  },
+  "grok/financiere-entreprises": {
+    "nom": "grok/financiere-entreprises",
+    "source": "recu/grok/financiere-entreprises.jpg",
+    "role": "galerie",
+    "alt": "Atelier lumineux d'une jeune entreprise, prototypes sur l'établi",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "e07dd13e30e8bbd9",
+    "ratio": "3:4",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "69% 50%",
+    "sujet": {
+      "x": 13.6,
+      "y": 0,
+      "l": 81.8,
+      "h": 100
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.11,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "sombre"
+      },
+      {
+        "cote": "bas",
+        "score": 0,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 84,
+      "width": 1320,
+      "height": 1760,
+      "source": [
+        1320,
+        1967
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/financiere-entreprises-480.webp",
+      "grok/financiere-entreprises-640.webp",
+      "grok/financiere-entreprises-960.webp"
+    ],
+    "poids": {
+      "grok/financiere-entreprises-480.webp": 49962,
+      "grok/financiere-entreprises-640.webp": 72324,
+      "grok/financiere-entreprises-960.webp": 113792
+    },
+    "media": "c.media({ nom: 'grok/financiere-entreprises', alt: \"Atelier lumineux d'une jeune entreprise, prototypes sur l'établi\", cadrage: '69% 50%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '3 / 4' })"
+  },
+  "grok/immobiliere-ouverture": {
+    "nom": "grok/immobiliere-ouverture",
+    "source": "recu/grok/immobiliere-ouverture.jpg",
+    "role": "ouverture",
+    "alt": "Petite place de vieille ville bordée d'immeubles en pierre blonde, au soleil couchant",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 5,
+    "empreinte": "73beac846efcd67d",
+    "ratio": "16:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "9:16",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "50% 39%"
+    },
+    "cadrage": "33% 36%",
+    "sujet": {
+      "x": 3.1,
+      "y": 0,
+      "l": 75,
+      "h": 81.4
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.57,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0.25,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.07,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": "bas",
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1700,
+      "height": 956,
+      "source": [
+        1700,
+        1141
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,13 fois (source de 1700 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/immobiliere-ouverture-640.webp",
+      "grok/immobiliere-ouverture-1280.webp",
+      "grok/immobiliere-ouverture-1920.webp",
+      "grok/immobiliere-ouverture-mobile-640.webp",
+      "grok/immobiliere-ouverture-mobile-1080.webp"
+    ],
+    "poids": {
+      "grok/immobiliere-ouverture-640.webp": 56182,
+      "grok/immobiliere-ouverture-1280.webp": 170474,
+      "grok/immobiliere-ouverture-1920.webp": 269636,
+      "grok/immobiliere-ouverture-mobile-640.webp": 153116,
+      "grok/immobiliere-ouverture-mobile-1080.webp": 303502
+    },
+    "media": "c.media({ nom: 'grok/immobiliere-ouverture', alt: \"Petite place de vieille ville bordée d'immeubles en pierre blonde, au soleil couchant\", cadrage: '33% 36%', cadrageMobile: '50% 39%', sizes: '100vw', priorite: true })"
+  },
+  "grok/immobiliere-scpi": {
+    "nom": "grok/immobiliere-scpi",
+    "source": "recu/grok/immobiliere-scpi.jpg",
+    "role": "vignette",
+    "alt": "Immeuble de commerces et de bureaux en centre-ville",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "2de7cb9054f426b5",
+    "ratio": "3:2",
+    "largeurs": [
+      480,
+      640,
+      800
+    ],
+    "mobile": null,
+    "cadrage": "47% 45%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 100,
+      "h": 96.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1700,
+      "height": 1133,
+      "source": [
+        1700,
+        1141
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/immobiliere-scpi-480.webp",
+      "grok/immobiliere-scpi-640.webp",
+      "grok/immobiliere-scpi-800.webp"
+    ],
+    "poids": {
+      "grok/immobiliere-scpi-480.webp": 21402,
+      "grok/immobiliere-scpi-640.webp": 33340,
+      "grok/immobiliere-scpi-800.webp": 47508
+    },
+    "media": "c.media({ nom: 'grok/immobiliere-scpi', alt: \"Immeuble de commerces et de bureaux en centre-ville\", cadrage: '47% 45%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '3 / 2' })"
+  },
+  "grok/immobiliere-nue-propriete": {
+    "nom": "grok/immobiliere-nue-propriete",
+    "source": "recu/grok/immobiliere-nue-propriete.jpg",
+    "role": "vignette",
+    "alt": "Séjour vide et lumineux, parquet en chevrons et porte-fenêtre",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "061c3f8655570b91",
+    "ratio": "3:2",
+    "largeurs": [
+      480,
+      640,
+      800
+    ],
+    "mobile": null,
+    "cadrage": "58% 53%",
+    "sujet": {
+      "x": 0,
+      "y": 3.8,
+      "l": 96.9,
+      "h": 91.5
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.36,
+        "ton": "sombre"
+      },
+      {
+        "cote": "haut",
+        "score": 0.13,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.09,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 8,
+      "width": 1700,
+      "height": 1133,
+      "source": [
+        1700,
+        1141
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/immobiliere-nue-propriete-480.webp",
+      "grok/immobiliere-nue-propriete-640.webp",
+      "grok/immobiliere-nue-propriete-800.webp"
+    ],
+    "poids": {
+      "grok/immobiliere-nue-propriete-480.webp": 15504,
+      "grok/immobiliere-nue-propriete-640.webp": 26008,
+      "grok/immobiliere-nue-propriete-800.webp": 38306
+    },
+    "media": "c.media({ nom: 'grok/immobiliere-nue-propriete', alt: \"Séjour vide et lumineux, parquet en chevrons et porte-fenêtre\", cadrage: '58% 53%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '3 / 2' })"
+  },
+  "grok/immobiliere-usa": {
+    "nom": "grok/immobiliere-usa",
+    "source": "recu/grok/immobiliere-usa.jpg",
+    "role": "vignette",
+    "alt": "Maison individuelle de plain-pied avec pelouse et palmiers",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 3,
+    "empreinte": "79fba8476f42e248",
+    "ratio": "3:2",
+    "largeurs": [
+      480,
+      640,
+      800
+    ],
+    "mobile": null,
+    "cadrage": "45% 48%",
+    "sujet": {
+      "x": 0,
+      "y": 4.5,
+      "l": 96.9,
+      "h": 91.5
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.1,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1700,
+      "height": 1133,
+      "source": [
+        1700,
+        1141
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/immobiliere-usa-480.webp",
+      "grok/immobiliere-usa-640.webp",
+      "grok/immobiliere-usa-800.webp"
+    ],
+    "poids": {
+      "grok/immobiliere-usa-480.webp": 32846,
+      "grok/immobiliere-usa-640.webp": 54754,
+      "grok/immobiliere-usa-800.webp": 77364
+    },
+    "media": "c.media({ nom: 'grok/immobiliere-usa', alt: \"Maison individuelle de plain-pied avec pelouse et palmiers\", cadrage: '45% 48%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '3 / 2' })"
+  },
+  "grok/cabinet-escalier": {
+    "nom": "grok/cabinet-escalier",
+    "source": "recu/grok/cabinet-escalier.jpg",
+    "role": "galerie",
+    "alt": "Escalier de pierre en colimaçon et sa rampe en fer forgé",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 5,
+    "empreinte": "d5b2f6bd8df022a8",
+    "ratio": "3:4",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "52% 37%",
+    "sujet": {
+      "x": 4.5,
+      "y": 0,
+      "l": 63.6,
+      "h": 100
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.28,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0.26,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.22,
+        "ton": "sombre"
+      },
+      {
+        "cote": "haut",
+        "score": 0.09,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1320,
+      "height": 1760,
+      "source": [
+        1320,
+        1967
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/cabinet-escalier-480.webp",
+      "grok/cabinet-escalier-640.webp",
+      "grok/cabinet-escalier-960.webp"
+    ],
+    "poids": {
+      "grok/cabinet-escalier-480.webp": 35490,
+      "grok/cabinet-escalier-640.webp": 56274,
+      "grok/cabinet-escalier-960.webp": 98574
+    },
+    "media": "c.media({ nom: 'grok/cabinet-escalier', alt: \"Escalier de pierre en colimaçon et sa rampe en fer forgé\", cadrage: '52% 37%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '3 / 4' })"
+  },
+  "grok/contact-porte": {
+    "nom": "grok/contact-porte",
+    "source": "recu/grok/contact-porte.jpg",
+    "role": "portrait",
+    "alt": "Grande porte cochère bleu nuit dans une façade en pierre blonde",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 5,
+    "empreinte": "a7fa91c4b13a5529",
+    "ratio": "4:5",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "47% 38%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 95.5,
+      "h": 97.5
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.02,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 297,
+      "width": 1320,
+      "height": 1650,
+      "source": [
+        1320,
+        1967
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/contact-porte-480.webp",
+      "grok/contact-porte-640.webp",
+      "grok/contact-porte-784.webp"
+    ],
+    "poids": {
+      "grok/contact-porte-480.webp": 41352,
+      "grok/contact-porte-640.webp": 65688,
+      "grok/contact-porte-784.webp": 90102
+    },
+    "media": "c.media({ nom: 'grok/contact-porte', alt: \"Grande porte cochère bleu nuit dans une façade en pierre blonde\", cadrage: '47% 38%', sizes: '(max-width: 760px) 100vw, 40vw', ratio: '4 / 5' })"
+  },
+  "grok/404": {
+    "nom": "grok/404",
+    "source": "recu/grok/404.jpg",
+    "role": "404",
+    "alt": "Bureau vide, carnet fermé et loupe en laiton",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "b4b2667df297b358",
+    "ratio": "16:9",
+    "largeurs": [
+      800,
+      1600
+    ],
+    "mobile": null,
+    "cadrage": "51% 50%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 100,
+      "h": 100
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.15,
+        "ton": "sombre"
+      },
+      {
+        "cote": "haut",
+        "score": 0.06,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.03,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": "gauche",
+    "recadrage": {
+      "left": 0,
+      "top": 104,
+      "width": 1700,
+      "height": 956,
+      "source": [
+        1700,
+        1141
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/404-800.webp",
+      "grok/404-1600.webp"
+    ],
+    "poids": {
+      "grok/404-800.webp": 44956,
+      "grok/404-1600.webp": 112840
+    },
+    "media": "c.media({ nom: 'grok/404', alt: \"Bureau vide, carnet fermé et loupe en laiton\", cadrage: '51% 50%', sizes: '100vw', ratio: '16 / 9' })"
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "echecs": [],
+  "aRegarder": [
+    {
+      "niveau": "regarder",
+      "controle": "« à compléter » visible",
+      "detail": "1 fois hors du pied de page : remplacer par une phrase vraie qui oriente le visiteur (« Tarifs selon la saison, donnés à la réservation ») ou retirer l'élément, et le noter dans la fiche du README (sauf sens propre : « dossier à compléter »)",
+      "etape": "fichiers",
+      "page": "contact.html",
+      "lieux": [
+        ""
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/",
+      "taille": "768×1024",
+      "mode": "normal",
+      "selecteur": "section#reperes « Quelques repères Un même conseiller, une même adre »",
+      "lieux": [
+        "768×1024 normal",
+        "390×844 normal",
+        "844×390 normal",
+        "320×568 normal",
+        "390×844 sansJs",
+        "1920×1080 normal",
+        "1366×768 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/",
+      "taille": "768×1024",
+      "mode": "normal",
+      "selecteur": "section#transparence « TRANSPARENCE Ce qu'il faut savoir avant de commenc »",
+      "lieux": [
+        "768×1024 normal",
+        "390×844 normal",
+        "844×390 normal",
+        "320×568 normal",
+        "390×844 sansJs",
+        "1920×1080 normal",
+        "1366×768 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/cabinet",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "section#parcours « Un parcours, une adresse. 1993 DESS de gestion de  »",
+      "lieux": [
+        "390×844 normal",
+        "768×1024 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/cabinet",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "section#statuts « Statuts, rémunération, médiation. Les informations »",
+      "lieux": [
+        "390×844 normal",
+        "768×1024 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/cabinet",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "section#faq « Questions fréquentes Combien coûte un conseil ? Qu »",
+      "lieux": [
+        "390×844 normal",
+        "768×1024 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/contact",
+      "taille": "768×1024",
+      "mode": "normal",
+      "selecteur": "section#rendez-vous « Votre demande, en trois étapes. Choisissez le suje »",
+      "lieux": [
+        "768×1024 normal",
+        "390×844 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/offre-financiere",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "section#diagnostic « Le diagnostic, avant tout. La gestion de patrimoin »",
+      "lieux": [
+        "390×844 normal",
+        "768×1024 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansWebgl",
+        "1366×768 sansJs",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/offre-financiere",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "section#contrats « Les enveloppes du temps long. Le cabinet sélection »",
+      "lieux": [
+        "390×844 normal",
+        "768×1024 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansWebgl",
+        "1366×768 sansJs",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/offre-financiere",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "section#portefeuille « Gérer un portefeuille, à deux mains. En gestion di »",
+      "lieux": [
+        "390×844 normal",
+        "768×1024 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansWebgl",
+        "1366×768 sansJs",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/offre-financiere",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "section#fiscal « Fiscalité, salariés et prévoyance. 01 Défiscalisat »",
+      "lieux": [
+        "390×844 normal",
+        "768×1024 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansWebgl",
+        "1366×768 sansJs",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/offre-immobiliere",
+      "taille": "768×1024",
+      "mode": "normal",
+      "selecteur": "section#direct « L'immobilier en direct. Pour acheter ou vendre un  »",
+      "lieux": [
+        "768×1024 normal",
+        "390×844 normal",
+        "844×390 normal",
+        "320×568 normal",
+        "390×844 sansJs",
+        "1920×1080 normal",
+        "1366×768 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "320×568 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "retour avant : changement brusque",
+      "detail": "à 71 ms (différence 20 %) (films/retour-avant-1366.png)",
+      "etape": "films",
+      "page": "/offre-financiere",
+      "taille": "1366×768",
+      "mode": "retour avant",
+      "lieux": [
+        "1366×768 retour avant"
+      ]
+    }
+  ],
+  "nonLances": [],
+  "oks": {
+    "vercel.json": 1,
+    ".vercelignore": 1,
+    "robots.txt": 1,
+    "numéro de version": 1,
+    "langues": 1,
+    "mesures": 66,
+    "balayage": 5,
+    "films d’ouverture": 10,
+    "films de transition": 10
+  },
+  "infos": [
+    "Numéro de version des fichiers : ?v=1",
+    "Journal v1 : 5 étape(s) notée(s), 70 min de travail pour 115 min de budget, 29 min d’attente de l’utilisateur.",
+    "Journal : « aperçu de l'accueil en films (attente de la réponse notée à part) » 7 min pour 5 prévues.",
+    "Audit standard : étapes lourdes sur /, /cabinet, /contact, /offre-financiere, /offre-immobiliere.",
+    "Accessibilité : axe-core 4.12.1 en plus des contrôles intégrés.",
+    "Ouverture / (1366×768) : 2660 ms depuis le premier octet",
+    "Ouverture /cabinet (1366×768) : 2509 ms depuis le premier octet",
+    "Ouverture /contact (1366×768) : 2556 ms depuis le premier octet",
+    "Ouverture /offre-financiere (1366×768) : 2518 ms depuis le premier octet",
+    "Ouverture /offre-immobiliere (1366×768) : 2533 ms depuis le premier octet",
+    "Ouverture / (390×844) : 2625 ms depuis le premier octet",
+    "Ouverture /cabinet (390×844) : 2496 ms depuis le premier octet",
+    "Ouverture /contact (390×844) : 2571 ms depuis le premier octet",
+    "Ouverture /offre-financiere (390×844) : 2528 ms depuis le premier octet",
+    "Ouverture /offre-immobiliere (390×844) : 2561 ms depuis le premier octet",
+    "film de l'ouverture /offre-immobiliere 390×844 : réussi à la tentative 2 (avant : cdpSession.send: Protocol error (Page.startScreencast): Not attached to an active page)"
+  ],
+  "grille": []
+}

@@ -1,0 +1,395 @@
+{
+  "site": "https://www.censeopatrimoine.fr/",
+  "date": "2026-11-20T16:36:13.591Z",
+  "pages": [
+    "https://www.censeopatrimoine.fr/",
+    "https://www.censeopatrimoine.fr/contact",
+    "https://www.censeopatrimoine.fr/notre-offre-immobiliere",
+    "https://www.censeopatrimoine.fr/notre-offre-financiere",
+    "https://www.censeopatrimoine.fr/accueil-c200q",
+    "https://www.censeopatrimoine.fr/a-propos1",
+    "https://www.censeopatrimoine.fr/nue-proprit",
+    "https://www.censeopatrimoine.fr/scpi",
+    "https://www.censeopatrimoine.fr/programmes-nue-propriete"
+  ],
+  "images": [
+    {
+      "fichier": "cb-scout5-hdpi.png",
+      "nom": "cb-scout5-hdpi",
+      "origine": "https://maps.gstatic.com/mapfiles/api-3/images/cb_scout5_hdpi.png",
+      "page": "https://www.censeopatrimoine.fr/contact",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Contact | censeo patrimoine",
+        "fichier_origine": "cb_scout5_hdpi"
+      },
+      "largeur": 430,
+      "hauteur": 1670,
+      "poids": 104139,
+      "format": "png",
+      "transparence": true,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "contact-censeo-patrimoine.png",
+      "nom": "contact-censeo-patrimoine",
+      "origine": "https://static.wixstatic.com/media/1ed60b_3b5a4c273ef8f9cdc610e813fe03d53a.png",
+      "page": "https://www.censeopatrimoine.fr/contact",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Contact | censeo patrimoine",
+        "fichier_origine": ""
+      },
+      "largeur": 723,
+      "hauteur": 860,
+      "poids": 957372,
+      "format": "png",
+      "transparence": true,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "contact-censeo-patrimoine-2.webp",
+      "nom": "contact-censeo-patrimoine-2",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8367!3i5981!4i256!2m3!1e0!2sm!3i804570536!3m13!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=121359",
+      "page": "https://www.censeopatrimoine.fr/contact",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Contact | censeo patrimoine",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 47442,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "contact-censeo-patrimoine-3.webp",
+      "nom": "contact-censeo-patrimoine-3",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8368!3i5981!4i256!2m3!1e0!2sm!3i804570536!3m13!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=86759",
+      "page": "https://www.censeopatrimoine.fr/contact",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Contact | censeo patrimoine",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 53436,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "contact-censeo-patrimoine-4.webp",
+      "nom": "contact-censeo-patrimoine-4",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8367!3i5982!4i256!2m3!1e0!2sm!3i804570536!3m13!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=32762",
+      "page": "https://www.censeopatrimoine.fr/contact",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Contact | censeo patrimoine",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 55940,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "contact-censeo-patrimoine-5.webp",
+      "nom": "contact-censeo-patrimoine-5",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8369!3i5981!4i256!2m3!1e0!2sm!3i804570536!3m13!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=52159",
+      "page": "https://www.censeopatrimoine.fr/contact",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Contact | censeo patrimoine",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 48010,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "contact-censeo-patrimoine-6.webp",
+      "nom": "contact-censeo-patrimoine-6",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8369!3i5982!4i256!2m3!1e0!2sm!3i804570536!3m13!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=94633",
+      "page": "https://www.censeopatrimoine.fr/contact",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Contact | censeo patrimoine",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 55566,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "contact-censeo-patrimoine-7.webp",
+      "nom": "contact-censeo-patrimoine-7",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8368!3i5982!4i256!2m3!1e0!2sm!3i804570536!3m13!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=129233",
+      "page": "https://www.censeopatrimoine.fr/contact",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Contact | censeo patrimoine",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 58960,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "staticmapservice.png",
+      "nom": "staticmapservice",
+      "origine": "https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i2142093&2i1531298&2e1&3u14&4m2&1u475&2u270&5m6&1e0&5sfr&6sus&10b1&12b1&14i47083502&8e1&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=75923",
+      "page": "https://www.censeopatrimoine.fr/contact",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Contact | censeo patrimoine",
+        "fichier_origine": "StaticMapService"
+      },
+      "largeur": 475,
+      "hauteur": 270,
+      "poids": 54328,
+      "format": "png",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "accueil-censeo-patrimoine.png",
+      "nom": "accueil-censeo-patrimoine",
+      "origine": "https://static.wixstatic.com/media/1ed60b_c49e15d921e6405ea17a967e68860ead~mv2.png",
+      "page": "https://www.censeopatrimoine.fr/accueil-c200q",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Accueil | censeo patrimoine",
+        "fichier_origine": ""
+      },
+      "largeur": 555,
+      "hauteur": 462,
+      "poids": 48168,
+      "format": "png",
+      "transparence": true,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "investissement-immobilier-etats-nis.jpg",
+      "nom": "investissement-immobilier-etats-nis",
+      "origine": "https://static.wixstatic.com/media/1ed60b_c463640535690865c01140920b75fdb9.jpg",
+      "page": "https://www.censeopatrimoine.fr/a-propos1",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "investissement immobilier aux Etats nis",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 400,
+      "poids": 31921,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "nue-propriete.jpg",
+      "nom": "nue-propriete",
+      "origine": "https://static.wixstatic.com/media/1ed60b_676aee51eb8483ec1fa4b9ffa5996fea.jpg",
+      "page": "https://www.censeopatrimoine.fr/nue-proprit",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Nue propriété",
+        "fichier_origine": ""
+      },
+      "largeur": 1093,
+      "hauteur": 839,
+      "poids": 86971,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "nue-propriete-2.jpg",
+      "nom": "nue-propriete-2",
+      "origine": "https://static.wixstatic.com/media/1ed60b_c9027ce71bcfe60fcda65e62008020d2.jpg",
+      "page": "https://www.censeopatrimoine.fr/nue-proprit",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Nue propriété",
+        "fichier_origine": ""
+      },
+      "largeur": 669,
+      "hauteur": 551,
+      "poids": 73072,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "programme-courbevoie.jpg",
+      "nom": "programme-courbevoie",
+      "origine": "https://static.wixstatic.com/media/1ed60b_2560be5a7f1a8a6aebc99fd987de50f7.jpg",
+      "page": "https://www.censeopatrimoine.fr/programmes-nue-propriete",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Programme à Courbevoie",
+        "page": "Programme à Courbevoie",
+        "fichier_origine": ""
+      },
+      "largeur": 560,
+      "hauteur": 420,
+      "poids": 38588,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    }
+  ],
+  "ecartees": [
+    {
+      "url": "https://static.wixstatic.com/media/1ed60b_5b1c3d35f74366b7c0eca6c1514fb55a.jpg",
+      "raison": "repetee sur 9/9 pages"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/82cbd7e2e002355b856f7c0f638820de.wix_mp",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.parastorage.com/services/santa-resources/resources/editor/designPanel/panelTypes/default_pin_icon.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://maps.gstatic.com/mapfiles/transparent.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/1ed60b_1c919f9203ffa109896f3ba2b45d5990.png",
+      "raison": "236 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/1ed60b_2b8f20224604f798d901d7288a175acd.jpg",
+      "raison": "273 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/1ed60b_a7707c9721e98ab342ca4bfebb62ad03.jpg",
+      "raison": "300 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/1ed60b_3e0339059510ac3171eb3d15451d21c8.jpg",
+      "raison": "184 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/1ed60b_d0228e87858cd5bbdb19de472cc032b0.png",
+      "raison": "200 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/1ed60b_cc78051e59f032b4a745bbec765440ab.gif",
+      "raison": "222 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/1ed60b_8177963acdf7c80dd2ca59217a4a45d6.jpg",
+      "raison": "360 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/1ed60b_ce1c1cc38b886b5a3be264af5310ecfc.jpg",
+      "raison": "161 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/1ed60b_815bfdd5accdd63453f5b1a83aa81e17.jpg",
+      "raison": "248 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/1ed60b_91240c2aa41c199e0d8608f50ae4e078.jpg",
+      "raison": "283 px de large"
+    },
+    {
+      "url": "https://maps.gstatic.com/mapfiles/openhand_8_8.cur",
+      "raison": "echec : Input buffer contains unsupported image format"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/1ed60b_b307dfb9e2dafd872447857043418f96.jpg",
+      "raison": "192 px de large"
+    },
+    {
+      "url": "https://maps.gstatic.com/mapfiles/api-3/images/drag-cross_hdpi.png",
+      "raison": "26 px de large"
+    }
+  ]
+}

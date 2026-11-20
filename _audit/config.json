@@ -1,0 +1,6 @@
+{
+  "siteActuel": "www.censeopatrimoine.fr",
+  "pagesTypes": ["/", "/offre-financiere", "/offre-immobiliere", "/cabinet", "/contact"],
+  "effets": ["arche", "bandeau-leve", "recul", "calque-nuit", "millesime", "porte", "assises", "demembrement", "deux-mains", "cle-de-voute", "ruban"],
+  "grille": { "dispenses": {} }
+}

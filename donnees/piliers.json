@@ -1,0 +1,10 @@
+[
+  { "cle": "fondation", "rang": 0, "titre": "Le diagnostic patrimonial", "texte": "Situation, objectifs, horizon, fiscalité : tout part de là." },
+  { "cle": "proteger", "rang": 1, "titre": "Protéger", "texte": "Prévoyance, avec un partenaire spécialisé." },
+  { "cle": "epargner", "rang": 1, "titre": "Épargner", "texte": "Assurance vie et contrats de capitalisation." },
+  { "cle": "retraite", "rang": 2, "titre": "Préparer la retraite", "texte": "PER et épargne salariale." },
+  { "cle": "pierre", "rang": 2, "titre": "Investir dans la pierre", "texte": "SCPI, nue-propriété, immobilier direct." },
+  { "cle": "economie", "rang": 3, "titre": "Financer l'économie réelle", "texte": "PME innovantes, FPCI, financement participatif." },
+  { "cle": "diversifier", "rang": 3, "titre": "Diversifier", "texte": "Forêts, terres agricoles, œuvres d'art." },
+  { "cle": "fiscalite", "rang": 4, "titre": "Alléger l'impôt", "texte": "Défiscalisation, déficit foncier." }
+]

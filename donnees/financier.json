@@ -1,0 +1,27 @@
+{
+  "sommaire": [
+    { "ancre": "diagnostic", "titre": "Diagnostic patrimonial" },
+    { "ancre": "contrats", "titre": "Assurance vie et capitalisation" },
+    { "ancre": "contrats", "titre": "Plan d'épargne retraite" },
+    { "ancre": "portefeuille", "titre": "Gestion de portefeuilles" },
+    { "ancre": "diversifier", "titre": "Forêts, terres, œuvres d'art" },
+    { "ancre": "diversifier", "titre": "Capital investissement" },
+    { "ancre": "fiscal", "titre": "Défiscalisation" },
+    { "ancre": "fiscal", "titre": "Épargne salariale et prévoyance" }
+  ],
+  "contrats": [
+    { "titre": "Assurance vie", "texte": "L'enveloppe de référence pour épargner, faire fructifier et transmettre, en fonds euros ou en unités de compte.", "risque": "Unités de compte : capital non garanti." },
+    { "titre": "Contrat de capitalisation", "texte": "Proche de l'assurance vie, souvent utilisé par les sociétés et pour organiser une donation." , "risque": "Unités de compte : capital non garanti." },
+    { "titre": "Plan d'épargne retraite", "texte": "Pour préparer la retraite, avec des versements déductibles du revenu imposable dans certaines limites.", "risque": "Épargne bloquée jusqu'à la retraite, sauf cas prévus par la loi." }
+  ],
+  "diversifier": [
+    { "image": "grok/financiere-forets", "titre": "Bois, forêts et terres agricoles", "texte": "Des actifs réels de très long terme, choisis pour diversifier un patrimoine.", "alt": "Forêt de chênes et de pins traversée par la lumière" },
+    { "image": "grok/financiere-art", "titre": "Œuvres d'art", "texte": "Des placements en œuvres d'art, accessibles à partir de 20 000 €.", "alt": "Salle de galerie calme avec deux grandes toiles abstraites" },
+    { "image": "grok/financiere-entreprises", "titre": "Capital investissement", "texte": "Entrer au capital de PME innovantes locales, en direct ou par des plateformes, en FPCI ou en club deal. Crowdfunding et crowdlending depuis 2011.", "alt": "Atelier lumineux d'une jeune entreprise, prototypes sur l'établi" }
+  ],
+  "fiscal": [
+    { "titre": "Défiscalisation", "texte": "Des dispositifs prévus par la loi, comme le Girardin industriel outre-mer, étudiés selon votre imposition.", "risque": "Avantage fiscal soumis à conditions ; risque de perte en capital." },
+    { "titre": "Épargne salariale", "texte": "Plan d'épargne entreprise et épargne retraite collective, pour les dirigeants et leurs salariés." },
+    { "titre": "Prévoyance", "texte": "Protéger sa famille et son activité, avec un partenaire spécialisé." }
+  ]
+}

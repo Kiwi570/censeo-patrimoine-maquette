@@ -1,0 +1,182 @@
+{
+  "avertissements": [
+    "logo pris dans assets/images (logo.svg) : aucun logo dans donnees/images.json, vérifier que ce n'est pas celui du socle"
+  ],
+  "cartes": [
+    {
+      "page": "accueil",
+      "langue": "fr",
+      "fichier": "assets/partage/accueil-fr.jpg",
+      "gabarit": "droite",
+      "image": "grok/accueil-ouverture-1280.webp",
+      "poids": 93330,
+      "sujet": {
+        "x": 602,
+        "y": 0,
+        "l": 595,
+        "h": 615
+      },
+      "textes": [
+        {
+          "x": 64,
+          "y": 56,
+          "l": 280,
+          "h": 64
+        },
+        {
+          "x": 64,
+          "y": 267,
+          "l": 480,
+          "h": 129
+        },
+        {
+          "x": 64,
+          "y": 542,
+          "l": 480,
+          "h": 36
+        }
+      ],
+      "recouvrement": 0
+    },
+    {
+      "page": "cabinet",
+      "langue": "fr",
+      "fichier": "assets/partage/cabinet-fr.jpg",
+      "gabarit": "droite",
+      "image": "grok/cabinet-escalier-960.webp",
+      "poids": 76558,
+      "sujet": {
+        "x": 627,
+        "y": 0,
+        "l": 382,
+        "h": 630
+      },
+      "textes": [
+        {
+          "x": 64,
+          "y": 56,
+          "l": 280,
+          "h": 64
+        },
+        {
+          "x": 64,
+          "y": 267,
+          "l": 480,
+          "h": 129
+        },
+        {
+          "x": 64,
+          "y": 542,
+          "l": 480,
+          "h": 36
+        }
+      ],
+      "recouvrement": 0
+    },
+    {
+      "page": "contact",
+      "langue": "fr",
+      "fichier": "assets/partage/contact-fr.jpg",
+      "gabarit": "droite",
+      "image": "grok/contact-porte-784.webp",
+      "poids": 79720,
+      "sujet": {
+        "x": 600,
+        "y": 0,
+        "l": 573,
+        "h": 630
+      },
+      "textes": [
+        {
+          "x": 64,
+          "y": 56,
+          "l": 280,
+          "h": 64
+        },
+        {
+          "x": 64,
+          "y": 267,
+          "l": 480,
+          "h": 129
+        },
+        {
+          "x": 64,
+          "y": 542,
+          "l": 480,
+          "h": 36
+        }
+      ],
+      "recouvrement": 0
+    },
+    {
+      "page": "offre-financiere",
+      "langue": "fr",
+      "fichier": "assets/partage/offre-financiere-fr.jpg",
+      "gabarit": "droite",
+      "image": "grok/financiere-ouverture-1280.webp",
+      "poids": 62966,
+      "sujet": {
+        "x": 600,
+        "y": 0,
+        "l": 600,
+        "h": 630
+      },
+      "textes": [
+        {
+          "x": 64,
+          "y": 56,
+          "l": 280,
+          "h": 64
+        },
+        {
+          "x": 64,
+          "y": 234,
+          "l": 480,
+          "h": 193
+        },
+        {
+          "x": 64,
+          "y": 542,
+          "l": 480,
+          "h": 36
+        }
+      ],
+      "recouvrement": 0
+    },
+    {
+      "page": "offre-immobiliere",
+      "langue": "fr",
+      "fichier": "assets/partage/offre-immobiliere-fr.jpg",
+      "gabarit": "droite",
+      "image": "grok/immobiliere-ouverture-1280.webp",
+      "poids": 105388,
+      "sujet": {
+        "x": 600,
+        "y": 0,
+        "l": 600,
+        "h": 513
+      },
+      "textes": [
+        {
+          "x": 64,
+          "y": 56,
+          "l": 280,
+          "h": 64
+        },
+        {
+          "x": 64,
+          "y": 299,
+          "l": 480,
+          "h": 64
+        },
+        {
+          "x": 64,
+          "y": 542,
+          "l": 480,
+          "h": 36
+        }
+      ],
+      "recouvrement": 0
+    }
+  ]
+}

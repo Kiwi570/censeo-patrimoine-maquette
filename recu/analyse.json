@@ -1,0 +1,954 @@
+{
+  "dossier": "/home/claude/censeo-patrimoine-maquette/recu",
+  "date": "2026-11-20T16:43:01.777Z",
+  "detection": "mesures sharp seulement",
+  "planches": [
+    "planche.jpg"
+  ],
+  "legende_planche": "cadre jaune : sujet ; croix rouge : cadrage ; fond rose : à vérifier",
+  "doublons": [],
+  "images": [
+    {
+      "fichier": "cb-scout5-hdpi.png",
+      "nom": "cb-scout5-hdpi",
+      "drapeau": "autre",
+      "largeur": 430,
+      "hauteur": 1670,
+      "ratio": "0.26",
+      "ratio_valeur": 0.257,
+      "orientation": "portrait",
+      "format": "png",
+      "poids": 104139,
+      "transparence": true,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 77.8,
+        "h": 96.9,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        20,
+        43
+      ],
+      "cadrage_css": "20% 43%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.7,
+          "ton": "clair",
+          "recouvre_sujet": 0.43
+        },
+        {
+          "cote": "bas",
+          "score": 0.42,
+          "ton": "clair",
+          "recouvre_sujet": 0.71
+        },
+        {
+          "cote": "haut",
+          "score": 0.22,
+          "ton": "clair",
+          "recouvre_sujet": 0.78
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 0.97
+        }
+      ],
+      "qualite": {
+        "nettete": 54.7,
+        "bruit": 0.17,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "430 px de large"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "d7555552d0d0d0d0",
+      "drapeaux": [
+        "autre",
+        "petite",
+        "calme droite"
+      ]
+    },
+    {
+      "fichier": "contact-censeo-patrimoine.png",
+      "nom": "contact-censeo-patrimoine",
+      "drapeau": "autre",
+      "largeur": 723,
+      "hauteur": 860,
+      "ratio": "0.84",
+      "ratio_valeur": 0.841,
+      "orientation": "portrait",
+      "format": "png",
+      "poids": 957372,
+      "transparence": true,
+      "sujet": {
+        "x": 3.7,
+        "y": 6.3,
+        "l": 70.4,
+        "h": 90.6,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        49,
+        41
+      ],
+      "cadrage_css": "49% 41%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.57,
+          "ton": "clair",
+          "recouvre_sujet": 0.32
+        },
+        {
+          "cote": "haut",
+          "score": 0.41,
+          "ton": "moyen",
+          "recouvre_sujet": 0.58
+        },
+        {
+          "cote": "gauche",
+          "score": 0.4,
+          "ton": "clair",
+          "recouvre_sujet": 0.82
+        },
+        {
+          "cote": "bas",
+          "score": 0.38,
+          "ton": "clair",
+          "recouvre_sujet": 0.64
+        }
+      ],
+      "qualite": {
+        "nettete": 15.7,
+        "bruit": 0.92,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "723 px de large"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "0c8c96060c462c3d",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "contact-censeo-patrimoine-2.webp",
+      "nom": "contact-censeo-patrimoine-2",
+      "drapeau": "autre",
+      "largeur": 512,
+      "hauteur": 512,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 47442,
+      "transparence": false,
+      "sujet": {
+        "x": 3.1,
+        "y": 18.8,
+        "l": 93.8,
+        "h": 75,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        42,
+        51
+      ],
+      "cadrage_css": "42% 51%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.45,
+          "ton": "clair",
+          "recouvre_sujet": 0.43
+        },
+        {
+          "cote": "droite",
+          "score": 0.33,
+          "ton": "clair",
+          "recouvre_sujet": 0.69
+        },
+        {
+          "cote": "bas",
+          "score": 0.25,
+          "ton": "clair",
+          "recouvre_sujet": 0.77
+        },
+        {
+          "cote": "gauche",
+          "score": 0.12,
+          "ton": "clair",
+          "recouvre_sujet": 0.69
+        }
+      ],
+      "qualite": {
+        "nettete": 70.5,
+        "bruit": 1.09,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "512 px de large"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "16c33934cc872974",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "contact-censeo-patrimoine-3.webp",
+      "nom": "contact-censeo-patrimoine-3",
+      "drapeau": "autre",
+      "largeur": 512,
+      "hauteur": 512,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 53436,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 9.4,
+        "l": 100,
+        "h": 90.6,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        53,
+        44
+      ],
+      "cadrage_css": "53% 44%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.28,
+          "ton": "clair",
+          "recouvre_sujet": 0.73
+        },
+        {
+          "cote": "bas",
+          "score": 0.26,
+          "ton": "clair",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "gauche",
+          "score": 0.24,
+          "ton": "clair",
+          "recouvre_sujet": 0.91
+        },
+        {
+          "cote": "droite",
+          "score": 0.2,
+          "ton": "clair",
+          "recouvre_sujet": 0.91
+        }
+      ],
+      "qualite": {
+        "nettete": 65.3,
+        "bruit": 1.28,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "512 px de large"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "646372e4ba992326",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "contact-censeo-patrimoine-4.webp",
+      "nom": "contact-censeo-patrimoine-4",
+      "drapeau": "autre",
+      "largeur": 512,
+      "hauteur": 512,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 55940,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 100,
+        "h": 100,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        48,
+        53
+      ],
+      "cadrage_css": "48% 53%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.26,
+          "ton": "clair",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "bas",
+          "score": 0.19,
+          "ton": "clair",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "droite",
+          "score": 0.12,
+          "ton": "clair",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "gauche",
+          "score": 0.11,
+          "ton": "clair",
+          "recouvre_sujet": 1
+        }
+      ],
+      "qualite": {
+        "nettete": 62.3,
+        "bruit": 1.05,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "512 px de large"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "64da38332746e647",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "contact-censeo-patrimoine-5.webp",
+      "nom": "contact-censeo-patrimoine-5",
+      "drapeau": "autre",
+      "largeur": 512,
+      "hauteur": 512,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 48010,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 6.3,
+        "l": 100,
+        "h": 93.8,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        57,
+        55
+      ],
+      "cadrage_css": "57% 55%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.33,
+          "ton": "clair",
+          "recouvre_sujet": 0.82
+        },
+        {
+          "cote": "gauche",
+          "score": 0.25,
+          "ton": "clair",
+          "recouvre_sujet": 0.94
+        },
+        {
+          "cote": "droite",
+          "score": 0.21,
+          "ton": "clair",
+          "recouvre_sujet": 0.94
+        },
+        {
+          "cote": "bas",
+          "score": 0.15,
+          "ton": "clair",
+          "recouvre_sujet": 1
+        }
+      ],
+      "qualite": {
+        "nettete": 63.1,
+        "bruit": 1.03,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "512 px de large"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "7e59d895103e1d13",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "contact-censeo-patrimoine-6.webp",
+      "nom": "contact-censeo-patrimoine-6",
+      "drapeau": "autre",
+      "largeur": 512,
+      "hauteur": 512,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 55566,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 3.1,
+        "l": 81.3,
+        "h": 90.6,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        49,
+        48
+      ],
+      "cadrage_css": "49% 48%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.32,
+          "ton": "clair",
+          "recouvre_sujet": 0.48
+        },
+        {
+          "cote": "bas",
+          "score": 0.21,
+          "ton": "clair",
+          "recouvre_sujet": 0.67
+        },
+        {
+          "cote": "gauche",
+          "score": 0.11,
+          "ton": "clair",
+          "recouvre_sujet": 0.91
+        },
+        {
+          "cote": "haut",
+          "score": 0.07,
+          "ton": "clair",
+          "recouvre_sujet": 0.74
+        }
+      ],
+      "qualite": {
+        "nettete": 70.7,
+        "bruit": 0.99,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "512 px de large"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "d91d93989b12174a",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "contact-censeo-patrimoine-7.webp",
+      "nom": "contact-censeo-patrimoine-7",
+      "drapeau": "autre",
+      "largeur": 512,
+      "hauteur": 512,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 58960,
+      "transparence": false,
+      "sujet": {
+        "x": 3.1,
+        "y": 3.1,
+        "l": 96.9,
+        "h": 93.8,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        50,
+        35
+      ],
+      "cadrage_css": "50% 35%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.26,
+          "ton": "clair",
+          "recouvre_sujet": 0.88
+        },
+        {
+          "cote": "droite",
+          "score": 0.15,
+          "ton": "clair",
+          "recouvre_sujet": 0.94
+        },
+        {
+          "cote": "gauche",
+          "score": 0.14,
+          "ton": "clair",
+          "recouvre_sujet": 0.87
+        },
+        {
+          "cote": "haut",
+          "score": 0.02,
+          "ton": "clair",
+          "recouvre_sujet": 0.88
+        }
+      ],
+      "qualite": {
+        "nettete": 56.5,
+        "bruit": 1.43,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "512 px de large"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "9645733685999c19",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "staticmapservice.png",
+      "nom": "staticmapservice",
+      "drapeau": "autre",
+      "largeur": 475,
+      "hauteur": 270,
+      "ratio": "16:9",
+      "ratio_valeur": 1.759,
+      "orientation": "paysage",
+      "format": "png",
+      "poids": 54328,
+      "transparence": false,
+      "sujet": {
+        "x": 3.1,
+        "y": 10.5,
+        "l": 93.8,
+        "h": 78.9,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        58,
+        55
+      ],
+      "cadrage_css": "58% 55%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.37,
+          "ton": "clair",
+          "recouvre_sujet": 0.66
+        },
+        {
+          "cote": "gauche",
+          "score": 0.3,
+          "ton": "clair",
+          "recouvre_sujet": 0.73
+        },
+        {
+          "cote": "bas",
+          "score": 0.3,
+          "ton": "clair",
+          "recouvre_sujet": 0.65
+        },
+        {
+          "cote": "droite",
+          "score": 0.28,
+          "ton": "clair",
+          "recouvre_sujet": 0.73
+        }
+      ],
+      "qualite": {
+        "nettete": 86.6,
+        "bruit": 1.71,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "475 px de large"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "cc541c012216c4ea",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "accueil-censeo-patrimoine.png",
+      "nom": "accueil-censeo-patrimoine",
+      "drapeau": "autre",
+      "largeur": 555,
+      "hauteur": 462,
+      "ratio": "1.2",
+      "ratio_valeur": 1.201,
+      "orientation": "paysage",
+      "format": "png",
+      "poids": 48168,
+      "transparence": true,
+      "sujet": {
+        "x": 15.6,
+        "y": 22.2,
+        "l": 84.4,
+        "h": 40.7,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        62,
+        41
+      ],
+      "cadrage_css": "62% 41%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.82,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.37,
+          "ton": "clair",
+          "recouvre_sujet": 0.25
+        },
+        {
+          "cote": "haut",
+          "score": 0.34,
+          "ton": "clair",
+          "recouvre_sujet": 0.31
+        },
+        {
+          "cote": "droite",
+          "score": 0.17,
+          "ton": "clair",
+          "recouvre_sujet": 0.41
+        }
+      ],
+      "qualite": {
+        "nettete": 50.9,
+        "bruit": 0.43,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "555 px de large"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "184c0c251b593830",
+      "drapeaux": [
+        "autre",
+        "petite",
+        "calme bas"
+      ]
+    },
+    {
+      "fichier": "investissement-immobilier-etats-nis.jpg",
+      "nom": "investissement-immobilier-etats-nis",
+      "drapeau": "autre",
+      "largeur": 512,
+      "hauteur": 400,
+      "ratio": "5:4",
+      "ratio_valeur": 1.28,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 31921,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 100,
+        "h": 68,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        54,
+        42
+      ],
+      "cadrage_css": "54% 42%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.39,
+          "ton": "clair",
+          "recouvre_sujet": 0.09
+        },
+        {
+          "cote": "gauche",
+          "score": 0.01,
+          "ton": "clair",
+          "recouvre_sujet": 0.68
+        },
+        {
+          "cote": "droite",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.68
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 1
+        }
+      ],
+      "qualite": {
+        "nettete": 54.4,
+        "bruit": 1.75,
+        "compression": 1.32,
+        "faible": true,
+        "raisons": [
+          "512 px de large"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "e27430214ee6c0e0",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "nue-propriete.jpg",
+      "nom": "nue-propriete",
+      "drapeau": "autre",
+      "largeur": 1093,
+      "hauteur": 839,
+      "ratio": "4:3",
+      "ratio_valeur": 1.303,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 86971,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 100,
+        "h": 96,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        46,
+        61
+      ],
+      "cadrage_css": "46% 61%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.1,
+          "ton": "moyen",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.96
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.96
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.89
+        }
+      ],
+      "qualite": {
+        "nettete": 49.9,
+        "bruit": 0.47,
+        "compression": 0.92,
+        "faible": true,
+        "raisons": [
+          "1093 px de large"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "80bdbf7e7584c0de",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "nue-propriete-2.jpg",
+      "nom": "nue-propriete-2",
+      "drapeau": "autre",
+      "largeur": 669,
+      "hauteur": 551,
+      "ratio": "1.21",
+      "ratio_valeur": 1.214,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 73072,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 100,
+        "h": 96.3,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        48,
+        49
+      ],
+      "cadrage_css": "48% 49%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.96
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.96
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.89
+        }
+      ],
+      "qualite": {
+        "nettete": 42.4,
+        "bruit": 1.56,
+        "compression": 1.16,
+        "faible": true,
+        "raisons": [
+          "669 px de large"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "9b8bdeda86a5dc50",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "programme-courbevoie.jpg",
+      "nom": "programme-courbevoie",
+      "drapeau": "autre",
+      "largeur": 560,
+      "hauteur": 420,
+      "ratio": "4:3",
+      "ratio_valeur": 1.333,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 38588,
+      "transparence": false,
+      "sujet": {
+        "x": 21.9,
+        "y": 20.8,
+        "l": 56.3,
+        "h": 58.3,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        52,
+        51
+      ],
+      "cadrage_css": "52% 51%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.57,
+          "ton": "clair",
+          "recouvre_sujet": 0.23
+        },
+        {
+          "cote": "gauche",
+          "score": 0.45,
+          "ton": "clair",
+          "recouvre_sujet": 0.26
+        },
+        {
+          "cote": "bas",
+          "score": 0.43,
+          "ton": "clair",
+          "recouvre_sujet": 0.23
+        },
+        {
+          "cote": "droite",
+          "score": 0.41,
+          "ton": "clair",
+          "recouvre_sujet": 0.27
+        }
+      ],
+      "qualite": {
+        "nettete": 73,
+        "bruit": 0.56,
+        "compression": 1.48,
+        "faible": true,
+        "raisons": [
+          "560 px de large",
+          "compression visible"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "001b332727232700",
+      "drapeaux": [
+        "autre",
+        "petite",
+        "compression visible"
+      ]
+    }
+  ]
+}

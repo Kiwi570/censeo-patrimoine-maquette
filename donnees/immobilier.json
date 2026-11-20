@@ -1,0 +1,9 @@
+{
+  "facons": [
+    { "ancre": "scpi", "titre": "SCPI", "texte": "L'immobilier en parts" },
+    { "ancre": "nue-propriete", "titre": "Nue-propriété", "texte": "Acheter avec une décote" },
+    { "ancre": "direct", "titre": "Immobilier direct", "texte": "Acheter ou vendre un bien" },
+    { "ancre": "crowdfunding", "titre": "Crowdfunding", "texte": "Financer des opérations" },
+    { "ancre": "etats-unis", "titre": "États-Unis", "texte": "Diversifier hors d'Europe" }
+  ]
+}

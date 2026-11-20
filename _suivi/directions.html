@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Censeo Patrimoine — trois directions</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Hanken+Grotesk:wght@400;500;600&family=Libre+Caslon+Display&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400;500&family=Gloock&family=Inter+Tight:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  *{box-sizing:border-box;margin:0}
+  body{font-family:"Hanken Grotesk",system-ui,sans-serif;background:#e9e6e0;color:#1b1f27;padding:32px 20px 60px}
+  header.top{max-width:1180px;margin:0 auto 28px}
+  header.top h1{font-family:"Instrument Serif",serif;font-weight:400;font-size:clamp(2rem,4vw,3.2rem);line-height:1.05}
+  header.top p{margin-top:10px;max-width:70ch;font-size:16px;line-height:1.55;color:#454a55}
+  .dir{max-width:1180px;margin:0 auto 34px;border-radius:18px;overflow:hidden;background:#fff;box-shadow:0 12px 40px rgba(20,25,35,.08)}
+  .bandeau{display:flex;justify-content:space-between;align-items:baseline;gap:16px;padding:18px 26px;border-bottom:1px solid #eee;flex-wrap:wrap}
+  .bandeau b{font-size:13px;letter-spacing:.14em;text-transform:uppercase}
+  .bandeau span{font-size:14px;color:#5a5f6a}
+  .reco{background:#14223A;color:#F4EFE6;border-radius:99px;padding:4px 12px;font-size:12px;letter-spacing:.06em}
+  .grille{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr)}
+  @media (max-width:860px){.grille{grid-template-columns:minmax(0,1fr)}}
+  .apercu{position:relative;min-height:420px;padding:44px 40px;overflow:hidden}
+  .infos{padding:28px 30px;font-size:15px;line-height:1.55}
+  .infos h3{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:#6b707b;margin:18px 0 8px;font-weight:600}
+  .infos h3:first-child{margin-top:0}
+  .infos ol{padding-left:20px}
+  .infos li{margin:2px 0}
+  .pastilles{display:flex;gap:8px;flex-wrap:wrap}
+  .pastille{width:92px}
+  .pastille i{display:block;height:46px;border-radius:10px;border:1px solid rgba(0,0,0,.08)}
+  .pastille small{display:block;font-size:12px;margin-top:4px;color:#555;line-height:1.3}
+  .specimen{display:flex;gap:18px;align-items:baseline;flex-wrap:wrap}
+
+  /* A — Rue dorée */
+  .a .apercu{background:#F4EFE6;color:#1A2233}
+  .a .arche{position:absolute;right:40px;top:40px;bottom:0;width:38%;border-radius:999px 999px 0 0;background:linear-gradient(180deg,#e7dcc8,#d8c8ac 60%,#cbb894);border:1.5px solid #B08D57;overflow:hidden}
+  .a .arche::before{content:"";position:absolute;inset:0;background:repeating-linear-gradient(0deg,transparent 0 46px,rgba(126,94,43,.18) 46px 47px),repeating-linear-gradient(90deg,transparent 0 70px,rgba(126,94,43,.12) 70px 71px)}
+  .a .arche::after{content:"";position:absolute;left:-30%;top:0;width:60%;height:100%;background:linear-gradient(100deg,transparent,rgba(255,236,190,.55),transparent);animation:luire 4.5s ease-in-out infinite}
+  @keyframes luire{0%{transform:translateX(0)}60%,100%{transform:translateX(260%)}}
+  .a .apercu > :not(.arche){position:relative;z-index:1}
+  .a .arche{width:32%}
+  .a .sur{max-width:56%;font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:#7E5E2B;font-weight:600}
+  .a .mot{font-family:"Instrument Serif",serif;font-size:clamp(3rem,6vw,5.2rem);line-height:.95;letter-spacing:.06em;margin-top:18px;background:linear-gradient(100deg,#7E5E2B 20%,#E3C68F 45%,#7E5E2B 70%);background-size:220% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:or 4.5s ease-in-out infinite}
+  @keyframes or{0%{background-position:100% 0}60%,100%{background-position:-20% 0}}
+  .a .trad{font-family:"Instrument Serif",serif;font-style:italic;font-size:22px;color:#7E5E2B;margin-top:4px}
+  .a .titre{font-family:"Instrument Serif",serif;font-size:clamp(2rem,3.6vw,3.1rem);line-height:1.04;max-width:12ch;margin-top:26px}
+  .a .titre em{color:#7E5E2B}
+  .a .btn{display:inline-block;margin-top:24px;background:#14223A;color:#F4EFE6;border-radius:99px;padding:12px 22px;font-size:15px;font-weight:500}
+  .a .pierres{position:absolute;left:40px;bottom:26px;display:flex;gap:6px}
+  .a .pierres i{display:block;width:44px;height:20px;border-radius:3px;background:#EAE1D2;border:1px solid #cdbb98;animation:pose 3s ease-in-out infinite}
+  .a .pierres i:nth-child(2){animation-delay:.25s}.a .pierres i:nth-child(3){animation-delay:.5s}.a .pierres i:nth-child(4){animation-delay:.75s}
+  @keyframes pose{0%,100%{transform:translateY(0)}40%{transform:translateY(-8px)}}
+
+  /* B — Cēnseō */
+  .b .apercu{background:#F7F4EE;color:#16241F}
+  .b .regles{position:absolute;inset:0;background:repeating-linear-gradient(180deg,transparent 0 33px,rgba(22,51,43,.10) 33px 34px)}
+  .b .marge{position:absolute;left:92px;top:0;bottom:0;width:1px;background:#8F5F14;opacity:.55}
+  .b .entree{position:relative;margin-left:70px;font-family:"IBM Plex Mono",monospace;font-size:14px;color:#3d4a45}
+  .b .entree b{font-family:"Libre Caslon Display",serif;font-weight:400;font-size:44px;color:#16332B;letter-spacing:.01em}
+  .b .entree em{font-style:normal;color:#8F5F14}
+  .b .titre{position:relative;margin:28px 0 0 70px;font-family:"Libre Caslon Display",serif;font-size:clamp(2.2rem,4vw,3.5rem);line-height:1.04;max-width:13ch;color:#16241F}
+  .b .titre span{color:#8F5F14;font-style:italic}
+  .b .bilan{position:relative;margin:26px 0 0 70px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;max-width:420px;font-family:"IBM Plex Mono",monospace;font-size:12px}
+  .b .bilan div{border-top:1.5px solid #16332B;padding-top:6px}
+  .b .bilan i{display:block;height:6px;background:#16332B;margin-top:8px;transform-origin:left;animation:remplir 3.2s ease-in-out infinite}
+  .b .bilan div:nth-child(2) i{animation-delay:.3s;background:#8F5F14}
+  .b .bilan div:nth-child(3) i{animation-delay:.6s;background:#5c7a6f}
+  @keyframes remplir{0%{transform:scaleX(.05)}50%,100%{transform:scaleX(1)}}
+
+  /* C — Le temps long */
+  .c .apercu{background:#0F1A2B;color:#F3EEE6}
+  .c svg.cernes{position:absolute;right:-60px;top:50%;transform:translateY(-50%);width:460px;height:460px}
+  .c svg.cernes circle{fill:none;stroke:#D8B67A;stroke-width:1;opacity:.55;stroke-dasharray:1400;stroke-dashoffset:1400;animation:trace 5s ease-out infinite}
+  @keyframes trace{0%{stroke-dashoffset:1400}55%,100%{stroke-dashoffset:0}}
+  .c .sur{position:relative;font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:#D8B67A;font-family:"Inter Tight",sans-serif;font-weight:600}
+  .c .titre{position:relative;font-family:"Gloock",serif;font-size:clamp(2.4rem,4.6vw,3.9rem);line-height:1.02;max-width:11ch;margin-top:18px}
+  .c .titre em{font-style:normal;color:#D8B67A}
+  .c .texte{position:relative;font-family:"Inter Tight",sans-serif;max-width:36ch;margin-top:16px;color:#c8cdd8;font-size:16px;line-height:1.5}
+  .c .btn{position:relative;display:inline-block;margin-top:22px;background:#D8B67A;color:#0F1A2B;border-radius:6px;padding:12px 20px;font-family:"Inter Tight",sans-serif;font-weight:600;font-size:15px}
+  .c .dates{position:relative;display:flex;gap:26px;margin-top:34px;font-family:"Gloock",serif;font-size:28px;color:#D8B67A}
+  .c .dates small{display:block;font-family:"Inter Tight",sans-serif;font-size:12px;color:#9AA3B5;letter-spacing:.06em}
+  footer{max-width:1180px;margin:10px auto 0;font-size:13px;color:#6b707b;line-height:1.5}
+</style>
+</head>
+<body>
+<header class="top">
+  <h1>Censeo Patrimoine : trois directions</h1>
+  <p>Cabinet de gestion de patrimoine fondé en 2004, 10 rue de la Loge à Montpellier. Chaque direction garde la même rigueur réglementaire (statuts visibles, aucun rendement promis, risque de perte en capital signalé). Les aperçus ci-dessous montrent l'ambiance, la palette et les polices ; les vraies photos et les images Grok viendront ensuite.</p>
+</header>
+
+<section class="dir a">
+  <div class="bandeau"><b>A · La rue dorée</b><span>Clair, pierre blonde de l'Écusson, bleu nuit et or doux</span><span class="reco">Recommandée</span></div>
+  <div class="grille">
+    <div class="apercu">
+      <div class="arche"></div>
+      <div class="sur">Gestion de patrimoine · Montpellier depuis 2004</div>
+      <div class="mot">CENSEO</div>
+      <div class="trad">« j'estime », en latin</div>
+      <div class="titre">Bâtir un patrimoine qui <em>dure</em>.</div>
+      <span class="btn">Prendre rendez-vous</span>
+      <div class="pierres"><i></i><i></i><i></i><i></i></div>
+    </div>
+    <div class="infos">
+      <h3>Palette</h3>
+      <div class="pastilles">
+        <div class="pastille"><i style="background:#F4EFE6"></i><small>Pierre<br>#F4EFE6 fond</small></div>
+        <div class="pastille"><i style="background:#EAE1D2"></i><small>Pierre chaude<br>#EAE1D2</small></div>
+        <div class="pastille"><i style="background:#14223A"></i><small>Bleu nuit<br>#14223A</small></div>
+        <div class="pastille"><i style="background:#B08D57"></i><small>Or doux<br>#B08D57</small></div>
+        <div class="pastille"><i style="background:#7E5E2B"></i><small>Or bruni (textes)<br>#7E5E2B</small></div>
+      </div>
+      <h3>Polices</h3>
+      <div class="specimen"><span style="font-family:'Instrument Serif';font-size:30px">Instrument Serif</span><span>Hanken Grotesk</span></div>
+      <h3>L'idée</h3>
+      <p>La rue de la Loge s'appelait au Moyen Âge la « rue dorée » (orfèvres, loge des marchands). Censeo veut dire « j'estime ». Un patrimoine se bâtit comme un hôtel particulier de l'Écusson : pierre à pierre.</p>
+      <h3>Accueil</h3>
+      <ol>
+        <li>Intro : CENSEO gravé, une lumière d'or le balaie, « j'estime », puis la photo s'ouvre dans une arche de pierre</li>
+        <li>Les vrais repères (2004, 30 ans, DESS 1993, crowdfunding depuis 2011)</li>
+        <li>Deux offres en grandes cartes photo : financière, immobilière</li>
+        <li>« Pierre à pierre » : les piliers du patrimoine s'empilent au défilement</li>
+        <li>La méthode en 4 étapes, filet d'or qui se trace</li>
+        <li>Le conseiller et la rue dorée (petite carte de l'Écusson)</li>
+        <li>Statuts, rémunération, partenaires en ruban</li>
+        <li>Rendez-vous</li>
+      </ol>
+      <h3>Favorite la plus proche (niveau)</h3><p>Artic, Exco</p>
+    </div>
+  </div>
+</section>
+
+<section class="dir b">
+  <div class="bandeau"><b>B · Cēnseō, le registre</b><span>Éditorial clair, papier et encre, vert sapin et ocre</span></div>
+  <div class="grille">
+    <div class="apercu">
+      <div class="regles"></div><div class="marge"></div>
+      <div class="entree"><b>cēnseō</b> &nbsp;v. tr. — <em>1.</em> estimer, évaluer. <em>2.</em> être d'avis.</div>
+      <div class="titre">Le bon conseil commence par une <span>juste estimation</span>.</div>
+      <div class="bilan"><div>Actif<i></i></div><div>Objectifs<i></i></div><div>Fiscalité<i></i></div></div>
+    </div>
+    <div class="infos">
+      <h3>Palette</h3>
+      <div class="pastilles">
+        <div class="pastille"><i style="background:#F7F4EE"></i><small>Papier<br>#F7F4EE fond</small></div>
+        <div class="pastille"><i style="background:#ECE7DC"></i><small>Papier ombré<br>#ECE7DC</small></div>
+        <div class="pastille"><i style="background:#16332B"></i><small>Vert sapin<br>#16332B</small></div>
+        <div class="pastille"><i style="background:#8F5F14"></i><small>Ocre<br>#8F5F14</small></div>
+      </div>
+      <h3>Polices</h3>
+      <div class="specimen"><span style="font-family:'Libre Caslon Display';font-size:28px">Libre Caslon</span><span style="font-family:'IBM Plex Sans'">IBM Plex Sans</span><span style="font-family:'IBM Plex Mono';font-size:14px">Plex Mono 0123</span></div>
+      <h3>L'idée</h3>
+      <p>Le site comme un beau registre : définition du mot latin, lignes qui se tracent, un « bilan » qui se remplit (illustratif) et un petit outil d'abord : trois questions qui montrent les services utiles et préremplissent le rendez-vous.</p>
+      <h3>Accueil</h3>
+      <ol>
+        <li>Intro : la définition se tape, les lignes du registre se tracent</li>
+        <li>Outil : objectif, horizon, situation → services proposés</li>
+        <li>Offres en colonnes de registre</li>
+        <li>Méthode, chiffres vrais en grand, statuts</li>
+        <li>Rendez-vous</li>
+      </ol>
+      <h3>Favorite la plus proche (niveau)</h3><p>Exco</p>
+    </div>
+  </div>
+</section>
+
+<section class="dir c">
+  <div class="bandeau"><b>C · Le temps long</b><span>Sombre et chaud, bleu nuit et champagne, sections claires pour l'utile</span></div>
+  <div class="grille">
+    <div class="apercu">
+      <svg class="cernes" viewBox="0 0 460 460" aria-hidden="true">
+        <circle cx="230" cy="230" r="30"/><circle cx="230" cy="230" r="58" style="animation-delay:.2s"/><circle cx="230" cy="230" r="90" style="animation-delay:.4s"/><circle cx="230" cy="230" r="126" style="animation-delay:.6s"/><circle cx="230" cy="230" r="166" style="animation-delay:.8s"/><circle cx="230" cy="230" r="210" style="animation-delay:1s"/>
+      </svg>
+      <div class="sur">Censeo Patrimoine · Montpellier</div>
+      <div class="titre">Le patrimoine grandit avec le <em>temps</em>.</div>
+      <div class="texte">Diagnostic, placements, immobilier, transmission : un même conseiller depuis 2004.</div>
+      <span class="btn">Prendre rendez-vous</span>
+      <div class="dates"><div>1993<small>DESS</small></div><div>2004<small>le cabinet</small></div><div>2011<small>crowdfunding</small></div></div>
+    </div>
+    <div class="infos">
+      <h3>Palette</h3>
+      <div class="pastilles">
+        <div class="pastille"><i style="background:#0F1A2B"></i><small>Nuit<br>#0F1A2B fond</small></div>
+        <div class="pastille"><i style="background:#172338"></i><small>Nuit claire<br>#172338</small></div>
+        <div class="pastille"><i style="background:#F3EEE6"></i><small>Ivoire (utile)<br>#F3EEE6</small></div>
+        <div class="pastille"><i style="background:#D8B67A"></i><small>Champagne<br>#D8B67A</small></div>
+      </div>
+      <h3>Polices</h3>
+      <div class="specimen"><span style="font-family:'Gloock';font-size:28px">Gloock</span><span style="font-family:'Inter Tight'">Inter Tight</span></div>
+      <h3>L'idée</h3>
+      <p>Les cernes d'un arbre (bois et forêts sont au catalogue) : chaque anneau est une étape de la vie patrimoniale, constituer, faire fructifier, préparer la retraite, transmettre. Ambiance plus luxueuse, plus nocturne.</p>
+      <h3>Accueil</h3>
+      <ol>
+        <li>Intro : les cernes se dessinent autour du titre</li>
+        <li>Les quatre âges du patrimoine, anneau par anneau</li>
+        <li>Offres en sections claires, photos en grand</li>
+        <li>Frise 1993 · 2004 · 2011 · aujourd'hui</li>
+        <li>Rendez-vous</li>
+      </ol>
+      <h3>Favorite la plus proche (niveau)</h3><p>Ice Attitude</p>
+    </div>
+  </div>
+</section>
+<footer>Une maquette du même métier existe déjà dans la bibliothèque (Proxiconseil : lever de soleil sur le bocage, bleu canard, Fraunces, boussole des objectifs) : aucune de ces directions ne lui reprend son idée, sa palette ni ses polices.</footer>
+</body>
+</html>

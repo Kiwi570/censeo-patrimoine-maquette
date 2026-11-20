@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="fr" data-v="1" data-curseur>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Offre financière : Censeo Patrimoine, Montpellier</title>
+<meta name="description" content="Diagnostic patrimonial, assurance vie, PER, gestion de portefeuilles, défiscalisation, épargne salariale, capital investissement, forêts et œuvres d&#39;art.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="canonical" href="https://censeo-patrimoine-maquette.vercel.app/offre-financiere">
+<style>:root{--fond:#F4EFE6;--texte:#1A2233;--voile-fond:#14223A;--ouverture-fond:#14223A;--menu-fond:#F4EFE6}:root { --entete-h: 72px; --barres-h: 0px; } html { background: var(--fond); color: var(--texte); scrollbar-gutter: stable; } body { margin: 0; background: var(--fond); } html.js:not(.secours):not([data-arrivee="retour"]) [data-anime] { opacity: 0; } html.js:not(.secours):not([data-arrivee="retour"]) [data-anime].vu { opacity: 1; } [data-voile] { position: fixed; inset: 0; z-index: 900; background: var(--voile-fond); transform: translateY(100%); visibility: hidden; pointer-events: none; } html[data-arrivee="voile"]:not(.voile-leve):not(.secours) [data-voile] { transform: none; visibility: visible; } html.secours [data-voile] { visibility: hidden !important; } .ouverture-panneau { position: fixed; inset: 0; z-index: 850; display: none; place-content: center; justify-items: center; background: var(--ouverture-fond, var(--voile-fond)); color: var(--fond); text-align: center; } html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) .ouverture-panneau { display: grid; } html.defilement-bloque, html.defilement-bloque body, html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie), html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) body, html[data-arrivee="voile"]:not(.voile-leve):not(.secours), html[data-arrivee="voile"]:not(.voile-leve):not(.secours) body { overflow: hidden; } html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) { background-color: var(--ouverture-fond, var(--voile-fond)); } html[data-arrivee="voile"]:not(.voile-leve):not(.secours) { background-color: var(--voile-fond); }</style>
+<script>(function () {
+var d = document.documentElement, ss = null, ls = null;
+try { ss = window.sessionStorage; ls = window.localStorage; } catch (e) {}
+d.classList.add('js');
+var nav = performance.getEntriesByType ? performance.getEntriesByType('navigation')[0] : null;
+var type = nav ? nav.type : 'navigate';
+var depart = null;
+try { depart = JSON.parse(ss.getItem('socle:depart') || 'null'); ss.removeItem('socle:depart'); } catch (e) {}
+if (depart && !(Date.now() - depart.t < 15000)) depart = null;
+var mode = type === 'back_forward' ? 'retour' : type === 'reload' ? 'intro' : depart ? 'voile' : 'intro';
+d.setAttribute('data-arrivee', mode);
+if (mode === 'voile' && depart.couleur) d.style.setProperty('--voile-fond', depart.couleur);
+if (type === 'reload' && 'scrollRestoration' in history) {
+history.scrollRestoration = 'manual';
+}
+try {
+var choisie = ls && ls.getItem('socle:langue');
+var langue = (d.lang || '').slice(0, 2);
+if (choisie && choisie !== langue && type === 'navigate' && !depart) {
+var alt = document.querySelector('link[rel="alternate"][hreflang="' + choisie + '"]');
+if (alt) location.replace(new URL(alt.href).pathname + location.search + location.hash);
+}
+} catch (e) {}
+setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('secours'); }, 2000);
+})();</script>
+<link rel="preload" href="/assets/fonts/instrument-serif-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/hanken-grotesk-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/socle.css?v=1">
+<link rel="stylesheet" href="/assets/css/site.css?v=1">
+<link rel="modulepreload" href="/assets/js/site.js?v=1">
+<link rel="modulepreload" href="/assets/js/socle/index.js?v=1">
+<script src="/assets/vendor/gsap.min.js" defer></script>
+<script src="/assets/vendor/ScrollTrigger.min.js" defer></script>
+<script src="/assets/vendor/SplitText.min.js" defer></script>
+<script type="module" src="/assets/js/site.js?v=1"></script>
+<meta name="theme-color" content="#F4EFE6">
+<link rel="icon" href="/assets/images/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Censeo Patrimoine">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:title" content="Offre financière : Censeo Patrimoine, Montpellier">
+<meta property="og:description" content="Diagnostic patrimonial, assurance vie, PER, gestion de portefeuilles, défiscalisation, épargne salariale, capital investissement, forêts et œuvres d&#39;art.">
+<meta property="og:url" content="https://censeo-patrimoine-maquette.vercel.app/offre-financiere">
+<meta property="og:image" content="https://censeo-patrimoine-maquette.vercel.app/assets/partage/offre-financiere-fr.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Offre financière de Censeo Patrimoine">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FinancialService","name":"Censeo Patrimoine","url":"https://censeo-patrimoine-maquette.vercel.app/","telephone":"+33467560588","email":"info@censeopatrimoine.fr","foundingDate":"2004","founder":{"@type":"Person","name":"Jean-Marie Kassigian"},"address":{"@type":"PostalAddress","streetAddress":"10 rue de la Loge","postalCode":"34000","addressLocality":"Montpellier","addressCountry":"FR"},"description":"Cabinet de conseil en gestion de patrimoine à Montpellier : diagnostic patrimonial, placements financiers, immobilier et fiscalité. CIF membre de l'ANACOFI-CIF, ORIAS 07007944."}</script>
+</head>
+<body id="haut">
+<div data-voile data-forme="rideau" aria-hidden="true"><div class="voile-contenu"><img src="/assets/images/logo-clair.svg" alt="" width="40" height="48"><span data-voile-libelle>Offre financière</span></div></div>
+<div class="ouverture-panneau" data-ouverture aria-hidden="true">
+  <svg class="ouverture-arche" viewBox="0 0 120 150" width="120" height="150" data-ouverture-objet><path class="arche-ext" d="M8 146V62a52 52 0 0 1 104 0v84" pathLength="1"/><path class="arche-int" d="M26 146V64a34 34 0 0 1 68 0v82" pathLength="1"/><path class="arche-cle" d="M53 6h14l-3 15h-8z"/><path class="arche-sol" d="M0 147h120" pathLength="1"/></svg>
+  <p class="ouverture-nom">Cēnseō</p>
+  <p class="ouverture-ligne">« j&#39;estime », en latin</p>
+</div>
+<a class="evitement" href="#contenu">Aller au contenu</a>
+<header data-entete>
+  <div class="entete-rangee">
+    <a class="entete-logo" href="/" data-libelle="Accueil">
+      <img src="/assets/images/logo.svg" alt="" width="30" height="36"><span class="logo-mot">Censeo<small>patrimoine</small></span>
+    </a>
+    <nav data-nav aria-label="Navigation principale">
+      <ul><li><a href="/offre-financiere" data-libelle="Offre financière" aria-current="page">Offre financière</a></li><li><a href="/offre-immobiliere" data-libelle="Offre immobilière">Offre immobilière</a></li><li><a href="/cabinet" data-libelle="Le cabinet">Le cabinet</a></li><li><a href="/contact" data-libelle="Contact">Contact</a></li></ul>
+    </nav>
+    <div class="entete-actions">
+      <a class="bouton" href="/contact#rendez-vous" data-libelle="Contact">Prendre rendez-vous</a>
+      <button type="button" data-menu-bouton aria-controls="menu" aria-expanded="false" data-libelle-ouvrir="Menu" data-libelle-fermer="Fermer"><span data-libelle-bouton>Menu</span></button>
+      <a class="menu-sansjs" href="#menu" data-menu-lien>Menu</a>
+    </div>
+  </div>
+</header>
+<script>/* Avant le premier affichage : rangées de la navigation (même règle que ajusterNav dans assets/js/socle/entete.js)
+   et hauteur réelle de l'en-tête, pour que rien ne saute quand le JavaScript du site prend la main. */
+(function () {
+  var h = document.documentElement, u = document.querySelector('[data-nav] ul'), e = document.querySelector('[data-entete]');
+  if (u) {
+    var deborde = function () { return u.scrollWidth > u.clientWidth + 1; }, c = deborde();
+    if (c && window.matchMedia('(min-width: 900px)').matches) {
+      h.classList.add('nav-deux-rangees'); c = deborde();
+      if (c) { h.classList.add('nav-deux-lignes'); var a = u.querySelector('a'); c = !a || u.getBoundingClientRect().height > a.getBoundingClientRect().height * 2.5; }
+      if (c) h.classList.remove('nav-deux-rangees', 'nav-deux-lignes');
+    }
+    if (c) h.classList.add('nav-compacte');
+  }
+  if (e) h.style.setProperty('--entete-h', Math.round(e.getBoundingClientRect().height) + 'px');
+})();</script>
+<span id="menu-ferme" aria-hidden="true"></span>
+<div id="menu" data-menu role="dialog" aria-modal="true" aria-label="Menu">
+  <p class="menu-sansjs-fermer"><a href="#menu-ferme">Fermer</a></p>
+  <ul><li style="--i:0"><a href="/" class="menu-lien" data-libelle="Accueil">Accueil</a></li><li style="--i:1"><a href="/offre-financiere" class="menu-lien" data-libelle="Offre financière" aria-current="page">Offre financière</a></li><li style="--i:2"><a href="/offre-immobiliere" class="menu-lien" data-libelle="Offre immobilière">Offre immobilière</a></li><li style="--i:3"><a href="/cabinet" class="menu-lien" data-libelle="Le cabinet">Le cabinet</a></li><li style="--i:4"><a href="/contact" class="menu-lien" data-libelle="Contact">Contact</a></li></ul>
+  <p><a class="bouton" href="tel:+33467560588">Appeler 04 67 56 05 88</a></p>
+</div>
+<main id="contenu" tabindex="-1">
+<section class="ouv ouv--bandeau" id="debut">
+  <div class="conteneur ouv-bandeau-haut">
+    <div><p class="surtitre ouv-suite" data-anime="gsap">Offre financière</p><h1 class="ouv-titre" data-anime="gsap"><span class="ouv-masque"><span class="ouv-ligne">Faire travailler votre épargne,</span></span><span class="ouv-masque"><span class="ouv-ligne"><em>sans perdre le fil.</em></span></span></h1></div>
+    <div class="ouv-bandeau-cote"><p class="ouv-texte-intro ouv-suite masque-ecran-tres-bas" data-anime="gsap">Un diagnostic d&#39;abord, puis des solutions choisies auprès de partenaires sélectionnés, et un suivi dans la durée.</p>
+  <div class="ouv-actions ouv-suite" data-anime="gsap"><a href="/contact?objet=diagnostic#rendez-vous" class="bouton" data-libelle="Contact" data-action-principale data-survol="magnetique">Demander un diagnostic</a></div>
+  <p class="ouv-info ouv-suite" data-anime="gsap" data-info-cle>Étude de portefeuille gratuite sur demande</p></div>
+  </div>
+  <div class="ouv-bandeau-place" data-iris-centre style="--apercu:url(data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAwCdASoUAAkAPtFWpEwoJKOiMAgBABoJQBOmUABO0R6Xnos8/OAA+9zrwTnxabEkNJpmFYekdZ4icBS3GEDCXi62D8ffHnJSbJZ0zkqAAAAA)"><figure class="media ouv-bandeau-media" data-grok data-effet="bandeau-leve" style="--cadrage:55% 66%">
+  <picture>
+    <img src="/assets/images/grok/financiere-ouverture-1280.webp" srcset="/assets/images/grok/financiere-ouverture-640.webp 640w, /assets/images/grok/financiere-ouverture-1280.webp 1280w, /assets/images/grok/financiere-ouverture-1920.webp 1920w" sizes="100vw" alt="Grande table de travail en chêne, carnet, lampe en laiton et rapports reliés" width="1280" height="549" fetchpriority="high" loading="eager" decoding="async">
+  </picture><figcaption class="mention-ia">Illustration générée</figcaption>
+</figure></div>
+</section>
+<nav class="sommaire-offre conteneur" aria-labelledby="sommaire-titre">
+  <h2 id="sommaire-titre" class="titre-petit" data-anime="lignes">Les huit solutions</h2>
+  <ol class="sommaire-liste" data-anime="cascade"><li><a href="#diagnostic" data-sans-transition><span class="sommaire-num">01</span>Diagnostic patrimonial</a></li><li><a href="#contrats" data-sans-transition><span class="sommaire-num">02</span>Assurance vie et capitalisation</a></li><li><a href="#contrats" data-sans-transition><span class="sommaire-num">03</span>Plan d&#39;épargne retraite</a></li><li><a href="#portefeuille" data-sans-transition><span class="sommaire-num">04</span>Gestion de portefeuilles</a></li><li><a href="#diversifier" data-sans-transition><span class="sommaire-num">05</span>Forêts, terres, œuvres d&#39;art</a></li><li><a href="#diversifier" data-sans-transition><span class="sommaire-num">06</span>Capital investissement</a></li><li><a href="#fiscal" data-sans-transition><span class="sommaire-num">07</span>Défiscalisation</a></li><li><a href="#fiscal" data-sans-transition><span class="sommaire-num">08</span>Épargne salariale et prévoyance</a></li></ol>
+</nav>
+<section class="diagnostic" id="diagnostic">
+  <div class="conteneur diagnostic-grille">
+    <div>
+      <h2 class="titre-section" data-anime="lignes">Le diagnostic, <em>avant tout</em>.</h2>
+      <p data-anime>La gestion de patrimoine demande une approche globale, parce que l&#39;environnement change : on vit plus longtemps, la retraite par répartition a ses limites, la fiscalité évolue. Le diagnostic fait le point sur votre situation et vos objectifs, puis débouche sur des préconisations.</p>
+      <p data-anime><a href="/contact?objet=diagnostic#rendez-vous" class="lien-fleche" data-libelle="Contact">Demander un diagnostic</a></p>
+    </div>
+    <ul class="constats" data-anime="cascade"><li class="constat"><span class="constat-num">1</span><strong>Vivre plus longtemps</strong><span>Un patrimoine doit tenir sur une retraite plus longue.</span></li><li class="constat"><span class="constat-num">2</span><strong>Une retraite à anticiper</strong><span>Le régime par répartition a ses limites.</span></li><li class="constat"><span class="constat-num">3</span><strong>Une fiscalité qui change</strong><span>Chaque loi de finances peut déplacer les équilibres.</span></li></ul>
+  </div>
+</section>
+<section class="contrats conteneur" id="contrats">
+  <h2 class="titre-section" data-anime="lignes">Les enveloppes <em>du temps long</em>.</h2>
+  <p class="texte-intro" data-anime>Le cabinet sélectionne les contrats auprès de ses partenaires assureurs et plateformes.</p>
+  <div class="cartes-texte" data-anime="cascade"><article class="carte-texte" data-survol="incline" data-survol-force="3">
+    <h3>Assurance vie</h3><p>L&#39;enveloppe de référence pour épargner, faire fructifier et transmettre, en fonds euros ou en unités de compte.</p><p class="carte-risque">Unités de compte : capital non garanti.</p>
+  </article><article class="carte-texte" data-survol="incline" data-survol-force="3">
+    <h3>Contrat de capitalisation</h3><p>Proche de l&#39;assurance vie, souvent utilisé par les sociétés et pour organiser une donation.</p><p class="carte-risque">Unités de compte : capital non garanti.</p>
+  </article><article class="carte-texte" data-survol="incline" data-survol-force="3">
+    <h3>Plan d&#39;épargne retraite</h3><p>Pour préparer la retraite, avec des versements déductibles du revenu imposable dans certaines limites.</p><p class="carte-risque">Épargne bloquée jusqu&#39;à la retraite, sauf cas prévus par la loi.</p>
+  </article></div>
+</section>
+<section class="portefeuille" id="portefeuille">
+  <div class="conteneur portefeuille-grille">
+    <div>
+      <h2 class="titre-section" data-anime="lignes">Gérer un portefeuille, <em>à deux mains</em>.</h2>
+      <p data-anime>En gestion directe, avec l&#39;expérience du dirigeant, ou sous mandat confié à une société de gestion. Une étude de votre portefeuille actuel est réalisée gratuitement sur demande.</p>
+      <p data-anime><a href="/contact?objet=portefeuille#rendez-vous" class="bouton bouton--or" data-libelle="Contact">Demander une étude de portefeuille</a></p>
+    </div>
+    <div class="deux-mains" data-effet="deux-mains">
+      <div class="main main--direct"><span class="main-lettre" aria-hidden="true">A</span><h3>Gestion directe</h3><p>Les choix sont faits avec vous, ligne à ligne, et suivis en permanence.</p></div>
+      <div class="main main--mandat"><span class="main-lettre" aria-hidden="true">B</span><h3>Gestion sous mandat</h3><p>Une société de gestion indépendante gère selon le profil défini ensemble.</p></div>
+    </div>
+  </div>
+</section>
+<section class="diversifier conteneur" id="diversifier">
+  <h2 class="titre-section" data-anime="lignes">Diversifier, <em>hors des sentiers battus</em>.</h2>
+  <p class="texte-intro" data-anime>Des actifs réels, de long terme, souvent moins liquides : à réserver à une partie du patrimoine, après le diagnostic.</p>
+  <div class="grandes-cartes" data-anime="cascade"><article class="grande-carte">
+    <figure class="media grande-carte-media" data-grok data-fx="parallaxe" data-fx-force="7" style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/grok/financiere-forets-960.webp" srcset="/assets/images/grok/financiere-forets-480.webp 480w, /assets/images/grok/financiere-forets-640.webp 640w, /assets/images/grok/financiere-forets-960.webp 960w" sizes="(max-width: 760px) 92vw, 31vw" alt="Forêt de chênes et de pins traversée par la lumière" width="960" height="1280" loading="lazy" decoding="async">
+  </picture><figcaption class="mention-ia">Illustration générée</figcaption>
+</figure>
+    <h3>Bois, forêts et terres agricoles</h3><p>Des actifs réels de très long terme, choisis pour diversifier un patrimoine.</p>
+  </article><article class="grande-carte">
+    <figure class="media grande-carte-media" data-grok data-fx="parallaxe" data-fx-force="7" style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/grok/financiere-art-960.webp" srcset="/assets/images/grok/financiere-art-480.webp 480w, /assets/images/grok/financiere-art-640.webp 640w, /assets/images/grok/financiere-art-960.webp 960w" sizes="(max-width: 760px) 92vw, 31vw" alt="Salle de galerie calme avec deux grandes toiles abstraites" width="960" height="1280" loading="lazy" decoding="async">
+  </picture><figcaption class="mention-ia">Illustration générée</figcaption>
+</figure>
+    <h3>Œuvres d&#39;art</h3><p>Des placements en œuvres d&#39;art, accessibles à partir de 20 000 €.</p>
+  </article><article class="grande-carte">
+    <figure class="media grande-carte-media" data-grok data-fx="parallaxe" data-fx-force="7" style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/grok/financiere-entreprises-960.webp" srcset="/assets/images/grok/financiere-entreprises-480.webp 480w, /assets/images/grok/financiere-entreprises-640.webp 640w, /assets/images/grok/financiere-entreprises-960.webp 960w" sizes="(max-width: 760px) 92vw, 31vw" alt="Atelier lumineux d&#39;une jeune entreprise, prototypes sur l&#39;établi" width="960" height="1280" loading="lazy" decoding="async">
+  </picture><figcaption class="mention-ia">Illustration générée</figcaption>
+</figure>
+    <h3>Capital investissement</h3><p>Entrer au capital de PME innovantes locales, en direct ou par des plateformes, en FPCI ou en club deal. Crowdfunding et crowdlending depuis 2011.</p>
+  </article></div>
+  <p class="note-risque" data-anime>Actifs peu liquides et non garantis : perte en capital possible, revente parfois longue. À réserver à une part limitée du patrimoine.</p>
+</section>
+<section class="fiscal" id="fiscal">
+  <div class="conteneur">
+    <h2 class="titre-section" data-anime="lignes">Fiscalité, salariés <em>et prévoyance</em>.</h2>
+    <div class="fiscal-grille" data-anime="cascade"><article class="fiscal-carte">
+      <span class="fiscal-num">01</span><h3>Défiscalisation</h3><p>Des dispositifs prévus par la loi, comme le Girardin industriel outre-mer, étudiés selon votre imposition.</p><p class="carte-risque">Avantage fiscal soumis à conditions ; risque de perte en capital.</p>
+    </article><article class="fiscal-carte">
+      <span class="fiscal-num">02</span><h3>Épargne salariale</h3><p>Plan d&#39;épargne entreprise et épargne retraite collective, pour les dirigeants et leurs salariés.</p>
+    </article><article class="fiscal-carte">
+      <span class="fiscal-num">03</span><h3>Prévoyance</h3><p>Protéger sa famille et son activité, avec un partenaire spécialisé.</p>
+    </article></div>
+  </div>
+</section>
+<div class="partenaires-liste conteneur">
+  <h2 class="titre-petit" data-anime="lignes">Partenaires financiers cités par le cabinet</h2>
+  <ul data-anime="cascade"><li>Generali</li><li>Axa Thema</li><li>Unep</li><li>Avip</li><li>Vie Plus</li><li>Afer</li><li>Swiss Life</li><li>Primonial</li><li>Nortia</li><li>Rothschild &amp; Cie Gestion</li><li>France Valley</li><li>DNCA</li><li>Financière de l&#39;Échiquier</li><li>Eres Gestion</li><li>Epsens</li><li>Alptis</li><li>Eiffel Invest</li><li>Matis</li><li>Ecofip</li><li>Ysidis</li><li>Inter Invest</li><li>Investisdom</li></ul>
+</div>
+<section class="fin" id="rendez-vous-final">
+  <div class="conteneur fin-grille">
+    <div class="fin-texte">
+      <h2 class="titre-section" data-anime="lignes">Votre épargne mérite <em>un diagnostic</em>.</h2>
+      <p data-anime>Un premier rendez-vous pour faire le point sur votre situation et vos objectifs, au cabinet ou par téléphone.</p>
+      <p class="fin-actions" data-anime><a href="/contact?objet=diagnostic#rendez-vous" class="bouton bouton--or" data-libelle="Contact" data-survol="magnetique">Demander un diagnostic</a><a class="bouton bouton--contour-clair" href="tel:+33467560588">04 67 56 05 88</a></p>
+    </div>
+    <div class="fin-visuel" data-visuel aria-hidden="true"><svg viewBox="0 0 200 250" data-effet="cle-de-voute"><path class="cv-ext" d="M14 246V104a86 86 0 0 1 172 0v142" pathLength="1"/><path class="cv-int" d="M44 246V106a56 56 0 0 1 112 0v140" pathLength="1"/><path class="cv-sol" d="M0 247h200" pathLength="1"/><path class="cv-cle" d="M88 4h24l-5 26H93z"/></svg></div>
+  </div>
+</section>
+</main>
+<footer class="pied" id="pied">
+  <div class="conteneur pied-grille">
+    <div class="pied-marque">
+      <p class="pied-logo"><img src="/assets/images/logo-clair.svg" alt="" width="30" height="36"><span class="logo-mot">Censeo<small>patrimoine</small></span></p>
+      <p>10 rue de la Loge<br>34000 Montpellier<br><a href="tel:+33467560588">04 67 56 05 88</a><br><a href="mailto:info@censeopatrimoine.fr">info@censeopatrimoine.fr</a></p>
+    </div>
+    <nav aria-label="Sommaire">
+      <p class="pied-titre">Sommaire</p>
+      <ul><li><a href="/" data-libelle="Accueil">Accueil</a></li><li><a href="/offre-financiere" data-libelle="Offre financière" aria-current="page">Offre financière</a></li><li><a href="/offre-immobiliere" data-libelle="Offre immobilière">Offre immobilière</a></li><li><a href="/cabinet" data-libelle="Le cabinet">Le cabinet</a></li><li><a href="/contact" data-libelle="Contact">Contact</a></li><li><a href="#haut" data-sans-transition>Retour en haut</a></li></ul>
+    </nav>
+    <div>
+      <p class="pied-titre">Le cabinet</p>
+      <p class="pied-statuts">CIF membre de l&#39;ANACOFI-CIF, association agréée par l&#39;AMF · ORIAS 07007944 · Courtier en assurance</p>
+      <p class="pied-legal"><span>Mentions légales : à compléter</span><br><span>Politique de confidentialité : à compléter</span></p>
+    </div>
+  </div>
+  <div class="conteneur pied-bas"><p>Tout investissement comporte un risque de perte en capital. Les performances passées ne préjugent pas des performances futures.</p><p>Maquette de démonstration : formulaires simulés, rien n&#39;est envoyé. © Censeo Patrimoine</p></div>
+</footer>
+<div data-barre-fixe>
+  <a class="bouton bouton--contour" href="tel:+33467560588">Appeler</a>
+  <a class="bouton" href="/contact#rendez-vous" data-libelle="Contact">Prendre rendez-vous</a>
+</div>
+</body>
+</html>

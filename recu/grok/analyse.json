@@ -1,0 +1,1258 @@
+{
+  "dossier": "/home/claude/censeo-patrimoine-maquette/recu/grok",
+  "date": "2026-11-20T17:47:19.053Z",
+  "detection": "mesures sharp seulement",
+  "planches": [
+    "planche.jpg"
+  ],
+  "legende_planche": "cadre jaune : sujet ; croix rouge : cadrage ; fond rose : à vérifier",
+  "doublons": [],
+  "images": [
+    {
+      "fichier": "404.jpg",
+      "nom": "404",
+      "drapeau": null,
+      "largeur": 1700,
+      "hauteur": 1141,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 368371,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 100,
+        "h": 95.5,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        51,
+        51
+      ],
+      "cadrage_css": "51% 51%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.15,
+          "ton": "sombre",
+          "recouvre_sujet": 0.87
+        },
+        {
+          "cote": "haut",
+          "score": 0.06,
+          "ton": "clair",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "gauche",
+          "score": 0.03,
+          "ton": "moyen",
+          "recouvre_sujet": 0.96
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.96
+        }
+      ],
+      "qualite": {
+        "nettete": 25.6,
+        "bruit": 0.66,
+        "compression": 1.02,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "2191949099c7dccc",
+      "drapeaux": []
+    },
+    {
+      "fichier": "accueil-bureau.jpg",
+      "nom": "accueil-bureau",
+      "drapeau": null,
+      "largeur": 1700,
+      "hauteur": 1141,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 382767,
+      "transparence": false,
+      "sujet": {
+        "x": 3.1,
+        "y": 0,
+        "l": 81.3,
+        "h": 90.9,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        36,
+        40
+      ],
+      "cadrage_css": "36% 40%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.26,
+          "ton": "sombre",
+          "recouvre_sujet": 0.55
+        },
+        {
+          "cote": "bas",
+          "score": 0.24,
+          "ton": "sombre",
+          "recouvre_sujet": 0.6
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.84
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.81
+        }
+      ],
+      "qualite": {
+        "nettete": 24.7,
+        "bruit": 0.65,
+        "compression": 1,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "c3424353595149ea",
+      "drapeaux": []
+    },
+    {
+      "fichier": "accueil-financier.jpg",
+      "nom": "accueil-financier",
+      "drapeau": null,
+      "largeur": 1320,
+      "hauteur": 1967,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 557894,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 86.4,
+        "h": 75,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        38,
+        46
+      ],
+      "cadrage_css": "38% 46%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.31,
+          "ton": "sombre",
+          "recouvre_sujet": 0.25
+        },
+        {
+          "cote": "droite",
+          "score": 0.05,
+          "ton": "sombre",
+          "recouvre_sujet": 0.5
+        },
+        {
+          "cote": "gauche",
+          "score": 0.03,
+          "ton": "moyen",
+          "recouvre_sujet": 0.75
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.86
+        }
+      ],
+      "qualite": {
+        "nettete": 33.4,
+        "bruit": 0.83,
+        "compression": 0.99,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "c6c6c4840ce0f898",
+      "drapeaux": []
+    },
+    {
+      "fichier": "accueil-immobilier.jpg",
+      "nom": "accueil-immobilier",
+      "drapeau": null,
+      "largeur": 1320,
+      "hauteur": 1967,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 605212,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 3.1,
+        "l": 95.5,
+        "h": 96.9,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        56,
+        46
+      ],
+      "cadrage_css": "56% 46%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.03,
+          "ton": "sombre",
+          "recouvre_sujet": 0.97
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.86
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.87
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.96
+        }
+      ],
+      "qualite": {
+        "nettete": 55.1,
+        "bruit": 1.16,
+        "compression": 1.05,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "bffbebebebf8e249",
+      "drapeaux": []
+    },
+    {
+      "fichier": "accueil-loge.jpg",
+      "nom": "accueil-loge",
+      "drapeau": null,
+      "largeur": 1700,
+      "hauteur": 1141,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 415165,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 31.8,
+        "l": 96.9,
+        "h": 59.1,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        57,
+        59
+      ],
+      "cadrage_css": "57% 59%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.76,
+          "ton": "sombre",
+          "recouvre_sujet": 0.09
+        },
+        {
+          "cote": "gauche",
+          "score": 0.29,
+          "ton": "sombre",
+          "recouvre_sujet": 0.59
+        },
+        {
+          "cote": "droite",
+          "score": 0.29,
+          "ton": "moyen",
+          "recouvre_sujet": 0.55
+        },
+        {
+          "cote": "bas",
+          "score": 0.12,
+          "ton": "moyen",
+          "recouvre_sujet": 0.72
+        }
+      ],
+      "qualite": {
+        "nettete": 28.3,
+        "bruit": 0.9,
+        "compression": 0.96,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "fafcead3dbd3d3f1",
+      "drapeaux": [
+        "calme haut"
+      ]
+    },
+    {
+      "fichier": "accueil-ouverture-mobile.jpg",
+      "nom": "accueil-ouverture-mobile",
+      "drapeau": null,
+      "largeur": 1320,
+      "hauteur": 1967,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 574801,
+      "transparence": false,
+      "sujet": {
+        "x": 18.2,
+        "y": 34.4,
+        "l": 68.2,
+        "h": 56.3,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        58,
+        64
+      ],
+      "cadrage_css": "58% 64%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.84,
+          "ton": "sombre",
+          "recouvre_sujet": 0.01
+        },
+        {
+          "cote": "gauche",
+          "score": 0.47,
+          "ton": "sombre",
+          "recouvre_sujet": 0.31
+        },
+        {
+          "cote": "droite",
+          "score": 0.25,
+          "ton": "sombre",
+          "recouvre_sujet": 0.37
+        },
+        {
+          "cote": "bas",
+          "score": 0.1,
+          "ton": "moyen",
+          "recouvre_sujet": 0.5
+        }
+      ],
+      "qualite": {
+        "nettete": 41.8,
+        "bruit": 0.9,
+        "compression": 0.99,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "f0f0f0f0b2bcf8fa",
+      "drapeaux": [
+        "calme haut"
+      ]
+    },
+    {
+      "fichier": "accueil-ouverture.jpg",
+      "nom": "accueil-ouverture",
+      "drapeau": null,
+      "largeur": 1700,
+      "hauteur": 1141,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 394394,
+      "transparence": false,
+      "sujet": {
+        "x": 40.6,
+        "y": 4.5,
+        "l": 53.1,
+        "h": 81.8,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        72,
+        52
+      ],
+      "cadrage_css": "72% 52%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.77,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "haut",
+          "score": 0.31,
+          "ton": "sombre",
+          "recouvre_sujet": 0.46
+        },
+        {
+          "cote": "bas",
+          "score": 0.28,
+          "ton": "sombre",
+          "recouvre_sujet": 0.32
+        },
+        {
+          "cote": "droite",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.69
+        }
+      ],
+      "qualite": {
+        "nettete": 41.1,
+        "bruit": 0.88,
+        "compression": 1.01,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "f8f8dccdcdd9dade",
+      "drapeaux": [
+        "calme gauche"
+      ]
+    },
+    {
+      "fichier": "accueil-rue.jpg",
+      "nom": "accueil-rue",
+      "drapeau": null,
+      "largeur": 1700,
+      "hauteur": 1141,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 456907,
+      "transparence": false,
+      "sujet": {
+        "x": 28.1,
+        "y": 0,
+        "l": 71.9,
+        "h": 95.5,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        62,
+        35
+      ],
+      "cadrage_css": "62% 35%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.51,
+          "ton": "sombre",
+          "recouvre_sujet": 0.28
+        },
+        {
+          "cote": "bas",
+          "score": 0.31,
+          "ton": "sombre",
+          "recouvre_sujet": 0.63
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.96
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.72
+        }
+      ],
+      "qualite": {
+        "nettete": 29.7,
+        "bruit": 0.81,
+        "compression": 1,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "febe98b2b2b1b8b8",
+      "drapeaux": []
+    },
+    {
+      "fichier": "cabinet-escalier.jpg",
+      "nom": "cabinet-escalier",
+      "drapeau": null,
+      "largeur": 1320,
+      "hauteur": 1967,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 481761,
+      "transparence": false,
+      "sujet": {
+        "x": 4.5,
+        "y": 0,
+        "l": 63.6,
+        "h": 93.8,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        52,
+        33
+      ],
+      "cadrage_css": "52% 33%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.28,
+          "ton": "sombre",
+          "recouvre_sujet": 0.83
+        },
+        {
+          "cote": "droite",
+          "score": 0.26,
+          "ton": "moyen",
+          "recouvre_sujet": 0.19
+        },
+        {
+          "cote": "bas",
+          "score": 0.22,
+          "ton": "sombre",
+          "recouvre_sujet": 0.52
+        },
+        {
+          "cote": "haut",
+          "score": 0.09,
+          "ton": "moyen",
+          "recouvre_sujet": 0.64
+        }
+      ],
+      "qualite": {
+        "nettete": 27.5,
+        "bruit": 0.67,
+        "compression": 0.99,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "f8f8f8e6f3d9f1f0",
+      "drapeaux": []
+    },
+    {
+      "fichier": "contact-porte.jpg",
+      "nom": "contact-porte",
+      "drapeau": null,
+      "largeur": 1320,
+      "hauteur": 1967,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 549557,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 95.5,
+        "h": 96.9,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        47,
+        47
+      ],
+      "cadrage_css": "47% 47%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.02,
+          "ton": "sombre",
+          "recouvre_sujet": 0.87
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.97
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.86
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.96
+        }
+      ],
+      "qualite": {
+        "nettete": 29.5,
+        "bruit": 0.69,
+        "compression": 0.95,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "00869696969696dc",
+      "drapeaux": []
+    },
+    {
+      "fichier": "financiere-art.jpg",
+      "nom": "financiere-art",
+      "drapeau": null,
+      "largeur": 1320,
+      "hauteur": 1967,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 579866,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 15.6,
+        "l": 95.5,
+        "h": 81.3,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        55,
+        51
+      ],
+      "cadrage_css": "55% 51%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.29,
+          "ton": "moyen",
+          "recouvre_sujet": 0.53
+        },
+        {
+          "cote": "droite",
+          "score": 0.15,
+          "ton": "sombre",
+          "recouvre_sujet": 0.72
+        },
+        {
+          "cote": "gauche",
+          "score": 0.13,
+          "ton": "moyen",
+          "recouvre_sujet": 0.81
+        },
+        {
+          "cote": "bas",
+          "score": 0.04,
+          "ton": "moyen",
+          "recouvre_sujet": 0.87
+        }
+      ],
+      "qualite": {
+        "nettete": 32.1,
+        "bruit": 0.82,
+        "compression": 0.98,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "f0e1e1f3f176a0f0",
+      "drapeaux": []
+    },
+    {
+      "fichier": "financiere-entreprises.jpg",
+      "nom": "financiere-entreprises",
+      "drapeau": null,
+      "largeur": 1320,
+      "hauteur": 1967,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 512713,
+      "transparence": false,
+      "sujet": {
+        "x": 13.6,
+        "y": 3.1,
+        "l": 81.8,
+        "h": 93.8,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        69,
+        49
+      ],
+      "cadrage_css": "69% 49%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.11,
+          "ton": "sombre",
+          "recouvre_sujet": 0.62
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.83
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.75
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.75
+        }
+      ],
+      "qualite": {
+        "nettete": 25.1,
+        "bruit": 0.61,
+        "compression": 0.98,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "df5fdadedef8fbf9",
+      "drapeaux": []
+    },
+    {
+      "fichier": "financiere-forets.jpg",
+      "nom": "financiere-forets",
+      "drapeau": null,
+      "largeur": 1320,
+      "hauteur": 1967,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 716445,
+      "transparence": false,
+      "sujet": {
+        "x": 18.2,
+        "y": 6.3,
+        "l": 77.3,
+        "h": 81.3,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        53,
+        45
+      ],
+      "cadrage_css": "53% 45%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.19,
+          "ton": "sombre",
+          "recouvre_sujet": 0.5
+        },
+        {
+          "cote": "gauche",
+          "score": 0.1,
+          "ton": "sombre",
+          "recouvre_sujet": 0.44
+        },
+        {
+          "cote": "haut",
+          "score": 0.03,
+          "ton": "sombre",
+          "recouvre_sujet": 0.63
+        },
+        {
+          "cote": "droite",
+          "score": 0.01,
+          "ton": "sombre",
+          "recouvre_sujet": 0.72
+        }
+      ],
+      "qualite": {
+        "nettete": 44.9,
+        "bruit": 0.88,
+        "compression": 1.02,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "efdedcd8d2d9f0f2",
+      "drapeaux": []
+    },
+    {
+      "fichier": "financiere-ouverture.jpg",
+      "nom": "financiere-ouverture",
+      "drapeau": null,
+      "largeur": 1700,
+      "hauteur": 1141,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 346185,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 84.4,
+        "h": 95.5,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        34,
+        42
+      ],
+      "cadrage_css": "34% 42%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.35,
+          "ton": "sombre",
+          "recouvre_sujet": 0.58
+        },
+        {
+          "cote": "bas",
+          "score": 0.16,
+          "ton": "sombre",
+          "recouvre_sujet": 0.74
+        },
+        {
+          "cote": "haut",
+          "score": 0.08,
+          "ton": "moyen",
+          "recouvre_sujet": 0.84
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.96
+        }
+      ],
+      "qualite": {
+        "nettete": 26.2,
+        "bruit": 0.57,
+        "compression": 0.99,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "c2c2c2d3c0d4e0e1",
+      "drapeaux": []
+    },
+    {
+      "fichier": "immobiliere-nue-propriete.jpg",
+      "nom": "immobiliere-nue-propriete",
+      "drapeau": null,
+      "largeur": 1700,
+      "hauteur": 1141,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 368871,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 4.5,
+        "l": 96.9,
+        "h": 90.9,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        58,
+        53
+      ],
+      "cadrage_css": "58% 53%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.36,
+          "ton": "sombre",
+          "recouvre_sujet": 0.91
+        },
+        {
+          "cote": "haut",
+          "score": 0.13,
+          "ton": "moyen",
+          "recouvre_sujet": 0.84
+        },
+        {
+          "cote": "bas",
+          "score": 0.09,
+          "ton": "moyen",
+          "recouvre_sujet": 0.84
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.84
+        }
+      ],
+      "qualite": {
+        "nettete": 31.5,
+        "bruit": 0.7,
+        "compression": 0.94,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "f2d2d2d6d4d4f2f2",
+      "drapeaux": []
+    },
+    {
+      "fichier": "immobiliere-ouverture-mobile.jpg",
+      "nom": "immobiliere-ouverture-mobile",
+      "drapeau": null,
+      "largeur": 1320,
+      "hauteur": 1967,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 798906,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 95.5,
+        "h": 100,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        45,
+        39
+      ],
+      "cadrage_css": "45% 39%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.89
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 0.96
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.96
+        }
+      ],
+      "qualite": {
+        "nettete": 69.8,
+        "bruit": 1.28,
+        "compression": 0.99,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "c0f0b8f8c8dbcef6",
+      "drapeaux": []
+    },
+    {
+      "fichier": "immobiliere-ouverture.jpg",
+      "nom": "immobiliere-ouverture",
+      "drapeau": null,
+      "largeur": 1700,
+      "hauteur": 1141,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 576815,
+      "transparence": false,
+      "sujet": {
+        "x": 3.1,
+        "y": 0,
+        "l": 75,
+        "h": 68.2,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        33,
+        30
+      ],
+      "cadrage_css": "33% 30%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.57,
+          "ton": "sombre",
+          "recouvre_sujet": 0.07
+        },
+        {
+          "cote": "droite",
+          "score": 0.25,
+          "ton": "sombre",
+          "recouvre_sujet": 0.31
+        },
+        {
+          "cote": "gauche",
+          "score": 0.07,
+          "ton": "moyen",
+          "recouvre_sujet": 0.63
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.75
+        }
+      ],
+      "qualite": {
+        "nettete": 51.6,
+        "bruit": 1.29,
+        "compression": 0.98,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "cdc886b09898e0d0",
+      "drapeaux": []
+    },
+    {
+      "fichier": "immobiliere-scpi.jpg",
+      "nom": "immobiliere-scpi",
+      "drapeau": null,
+      "largeur": 1700,
+      "hauteur": 1141,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 414280,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 100,
+        "h": 95.5,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        47,
+        45
+      ],
+      "cadrage_css": "47% 45%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.96
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.96
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.87
+        }
+      ],
+      "qualite": {
+        "nettete": 30,
+        "bruit": 0.65,
+        "compression": 1.02,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "918981d9d1c5c5c4",
+      "drapeaux": []
+    },
+    {
+      "fichier": "immobiliere-usa.jpg",
+      "nom": "immobiliere-usa",
+      "drapeau": null,
+      "largeur": 1700,
+      "hauteur": 1141,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 471628,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 4.5,
+        "l": 96.9,
+        "h": 90.9,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        45,
+        48
+      ],
+      "cadrage_css": "45% 48%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.1,
+          "ton": "moyen",
+          "recouvre_sujet": 0.84
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.91
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.84
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.84
+        }
+      ],
+      "qualite": {
+        "nettete": 48.3,
+        "bruit": 0.92,
+        "compression": 0.98,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "b0705ce4c6d9f9cc",
+      "drapeaux": []
+    },
+    {
+      "fichier": "pierre-texture.jpg",
+      "nom": "pierre-texture",
+      "drapeau": null,
+      "largeur": 1700,
+      "hauteur": 1141,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 568272,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 100,
+        "h": 95.5,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        62,
+        41
+      ],
+      "cadrage_css": "62% 41%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.42,
+          "ton": "moyen",
+          "recouvre_sujet": 0.96
+        },
+        {
+          "cote": "bas",
+          "score": 0.39,
+          "ton": "clair",
+          "recouvre_sujet": 0.87
+        },
+        {
+          "cote": "haut",
+          "score": 0.25,
+          "ton": "clair",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "droite",
+          "score": 0.24,
+          "ton": "clair",
+          "recouvre_sujet": 0.96
+        }
+      ],
+      "qualite": {
+        "nettete": 39.8,
+        "bruit": 1.44,
+        "compression": 0.99,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "f8fcdeffeff7f3f9",
+      "drapeaux": []
+    }
+  ]
+}

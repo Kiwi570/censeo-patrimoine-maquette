@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FinancialService",
+  "name": "Censeo Patrimoine",
+  "url": "https://censeo-patrimoine-maquette.vercel.app/",
+  "telephone": "+33467560588",
+  "email": "info@censeopatrimoine.fr",
+  "foundingDate": "2004",
+  "founder": { "@type": "Person", "name": "Jean-Marie Kassigian" },
+  "address": { "@type": "PostalAddress", "streetAddress": "10 rue de la Loge", "postalCode": "34000", "addressLocality": "Montpellier", "addressCountry": "FR" },
+  "description": "Cabinet de conseil en gestion de patrimoine à Montpellier : diagnostic patrimonial, placements financiers, immobilier et fiscalité. CIF membre de l'ANACOFI-CIF, ORIAS 07007944."
+}

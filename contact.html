@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="fr" data-v="1" data-curseur>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Prendre rendez-vous : Censeo Patrimoine, 10 rue de la Loge</title>
+<meta name="description" content="Demandez un rendez-vous, appelez le 04 67 56 05 88 ou venez au 10 rue de la Loge, au cœur de l&#39;Écusson, à Montpellier.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="canonical" href="https://censeo-patrimoine-maquette.vercel.app/contact">
+<style>:root{--fond:#F4EFE6;--texte:#1A2233;--voile-fond:#14223A;--ouverture-fond:#14223A;--menu-fond:#F4EFE6}:root { --entete-h: 72px; --barres-h: 0px; } html { background: var(--fond); color: var(--texte); scrollbar-gutter: stable; } body { margin: 0; background: var(--fond); } html.js:not(.secours):not([data-arrivee="retour"]) [data-anime] { opacity: 0; } html.js:not(.secours):not([data-arrivee="retour"]) [data-anime].vu { opacity: 1; } [data-voile] { position: fixed; inset: 0; z-index: 900; background: var(--voile-fond); transform: translateY(100%); visibility: hidden; pointer-events: none; } html[data-arrivee="voile"]:not(.voile-leve):not(.secours) [data-voile] { transform: none; visibility: visible; } html.secours [data-voile] { visibility: hidden !important; } .ouverture-panneau { position: fixed; inset: 0; z-index: 850; display: none; place-content: center; justify-items: center; background: var(--ouverture-fond, var(--voile-fond)); color: var(--fond); text-align: center; } html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) .ouverture-panneau { display: grid; } html.defilement-bloque, html.defilement-bloque body, html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie), html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) body, html[data-arrivee="voile"]:not(.voile-leve):not(.secours), html[data-arrivee="voile"]:not(.voile-leve):not(.secours) body { overflow: hidden; } html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) { background-color: var(--ouverture-fond, var(--voile-fond)); } html[data-arrivee="voile"]:not(.voile-leve):not(.secours) { background-color: var(--voile-fond); }</style>
+<script>(function () {
+var d = document.documentElement, ss = null, ls = null;
+try { ss = window.sessionStorage; ls = window.localStorage; } catch (e) {}
+d.classList.add('js');
+var nav = performance.getEntriesByType ? performance.getEntriesByType('navigation')[0] : null;
+var type = nav ? nav.type : 'navigate';
+var depart = null;
+try { depart = JSON.parse(ss.getItem('socle:depart') || 'null'); ss.removeItem('socle:depart'); } catch (e) {}
+if (depart && !(Date.now() - depart.t < 15000)) depart = null;
+var mode = type === 'back_forward' ? 'retour' : type === 'reload' ? 'intro' : depart ? 'voile' : 'intro';
+d.setAttribute('data-arrivee', mode);
+if (mode === 'voile' && depart.couleur) d.style.setProperty('--voile-fond', depart.couleur);
+if (type === 'reload' && 'scrollRestoration' in history) {
+history.scrollRestoration = 'manual';
+}
+try {
+var choisie = ls && ls.getItem('socle:langue');
+var langue = (d.lang || '').slice(0, 2);
+if (choisie && choisie !== langue && type === 'navigate' && !depart) {
+var alt = document.querySelector('link[rel="alternate"][hreflang="' + choisie + '"]');
+if (alt) location.replace(new URL(alt.href).pathname + location.search + location.hash);
+}
+} catch (e) {}
+setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('secours'); }, 2000);
+})();</script>
+<link rel="preload" href="/assets/fonts/instrument-serif-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/hanken-grotesk-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/socle.css?v=1">
+<link rel="stylesheet" href="/assets/css/site.css?v=1">
+<link rel="modulepreload" href="/assets/js/site.js?v=1">
+<link rel="modulepreload" href="/assets/js/socle/index.js?v=1">
+<script src="/assets/vendor/gsap.min.js" defer></script>
+<script src="/assets/vendor/ScrollTrigger.min.js" defer></script>
+<script src="/assets/vendor/SplitText.min.js" defer></script>
+<script type="module" src="/assets/js/site.js?v=1"></script>
+<meta name="theme-color" content="#F4EFE6">
+<link rel="icon" href="/assets/images/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Censeo Patrimoine">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:title" content="Prendre rendez-vous : Censeo Patrimoine, 10 rue de la Loge">
+<meta property="og:description" content="Demandez un rendez-vous, appelez le 04 67 56 05 88 ou venez au 10 rue de la Loge, au cœur de l&#39;Écusson, à Montpellier.">
+<meta property="og:url" content="https://censeo-patrimoine-maquette.vercel.app/contact">
+<meta property="og:image" content="https://censeo-patrimoine-maquette.vercel.app/assets/partage/contact-fr.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Prendre rendez-vous chez Censeo Patrimoine">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FinancialService","name":"Censeo Patrimoine","url":"https://censeo-patrimoine-maquette.vercel.app/","telephone":"+33467560588","email":"info@censeopatrimoine.fr","foundingDate":"2004","founder":{"@type":"Person","name":"Jean-Marie Kassigian"},"address":{"@type":"PostalAddress","streetAddress":"10 rue de la Loge","postalCode":"34000","addressLocality":"Montpellier","addressCountry":"FR"},"description":"Cabinet de conseil en gestion de patrimoine à Montpellier : diagnostic patrimonial, placements financiers, immobilier et fiscalité. CIF membre de l'ANACOFI-CIF, ORIAS 07007944."}</script>
+</head>
+<body id="haut">
+<div data-voile data-forme="rideau" aria-hidden="true"><div class="voile-contenu"><img src="/assets/images/logo-clair.svg" alt="" width="40" height="48"><span data-voile-libelle>Contact</span></div></div>
+<div class="ouverture-panneau" data-ouverture aria-hidden="true">
+  <svg class="ouverture-arche" viewBox="0 0 120 150" width="120" height="150" data-ouverture-objet><path class="arche-ext" d="M8 146V62a52 52 0 0 1 104 0v84" pathLength="1"/><path class="arche-int" d="M26 146V64a34 34 0 0 1 68 0v82" pathLength="1"/><path class="arche-cle" d="M53 6h14l-3 15h-8z"/><path class="arche-sol" d="M0 147h120" pathLength="1"/></svg>
+  <p class="ouverture-nom">Cēnseō</p>
+  <p class="ouverture-ligne">« j&#39;estime », en latin</p>
+</div>
+<a class="evitement" href="#contenu">Aller au contenu</a>
+<header data-entete>
+  <div class="entete-rangee">
+    <a class="entete-logo" href="/" data-libelle="Accueil">
+      <img src="/assets/images/logo.svg" alt="" width="30" height="36"><span class="logo-mot">Censeo<small>patrimoine</small></span>
+    </a>
+    <nav data-nav aria-label="Navigation principale">
+      <ul><li><a href="/offre-financiere" data-libelle="Offre financière">Offre financière</a></li><li><a href="/offre-immobiliere" data-libelle="Offre immobilière">Offre immobilière</a></li><li><a href="/cabinet" data-libelle="Le cabinet">Le cabinet</a></li><li><a href="/contact" data-libelle="Contact" aria-current="page">Contact</a></li></ul>
+    </nav>
+    <div class="entete-actions">
+      <a class="bouton" href="/contact#rendez-vous" data-libelle="Contact">Prendre rendez-vous</a>
+      <button type="button" data-menu-bouton aria-controls="menu" aria-expanded="false" data-libelle-ouvrir="Menu" data-libelle-fermer="Fermer"><span data-libelle-bouton>Menu</span></button>
+      <a class="menu-sansjs" href="#menu" data-menu-lien>Menu</a>
+    </div>
+  </div>
+</header>
+<script>/* Avant le premier affichage : rangées de la navigation (même règle que ajusterNav dans assets/js/socle/entete.js)
+   et hauteur réelle de l'en-tête, pour que rien ne saute quand le JavaScript du site prend la main. */
+(function () {
+  var h = document.documentElement, u = document.querySelector('[data-nav] ul'), e = document.querySelector('[data-entete]');
+  if (u) {
+    var deborde = function () { return u.scrollWidth > u.clientWidth + 1; }, c = deborde();
+    if (c && window.matchMedia('(min-width: 900px)').matches) {
+      h.classList.add('nav-deux-rangees'); c = deborde();
+      if (c) { h.classList.add('nav-deux-lignes'); var a = u.querySelector('a'); c = !a || u.getBoundingClientRect().height > a.getBoundingClientRect().height * 2.5; }
+      if (c) h.classList.remove('nav-deux-rangees', 'nav-deux-lignes');
+    }
+    if (c) h.classList.add('nav-compacte');
+  }
+  if (e) h.style.setProperty('--entete-h', Math.round(e.getBoundingClientRect().height) + 'px');
+})();</script>
+<span id="menu-ferme" aria-hidden="true"></span>
+<div id="menu" data-menu role="dialog" aria-modal="true" aria-label="Menu">
+  <p class="menu-sansjs-fermer"><a href="#menu-ferme">Fermer</a></p>
+  <ul><li style="--i:0"><a href="/" class="menu-lien" data-libelle="Accueil">Accueil</a></li><li style="--i:1"><a href="/offre-financiere" class="menu-lien" data-libelle="Offre financière">Offre financière</a></li><li style="--i:2"><a href="/offre-immobiliere" class="menu-lien" data-libelle="Offre immobilière">Offre immobilière</a></li><li style="--i:3"><a href="/cabinet" class="menu-lien" data-libelle="Le cabinet">Le cabinet</a></li><li style="--i:4"><a href="/contact" class="menu-lien" data-libelle="Contact" aria-current="page">Contact</a></li></ul>
+  <p><a class="bouton" href="tel:+33467560588">Appeler 04 67 56 05 88</a></p>
+</div>
+<main id="contenu" tabindex="-1">
+<section class="ouv ouv--contact" id="debut">
+  <div class="conteneur ouv-contact-grille">
+    <div class="ouv-colonne"><p class="surtitre ouv-suite" data-anime="gsap">Contact</p><h1 class="ouv-titre" data-anime="gsap"><span class="ouv-masque"><span class="ouv-ligne">Prendre</span></span><span class="ouv-masque"><span class="ouv-ligne"><em>rendez-vous.</em></span></span></h1><p class="ouv-texte-intro ouv-suite masque-ecran-tres-bas" data-anime="gsap">Au cabinet, au cœur de l&#39;Écusson, ou par téléphone. Dites-nous en quelques mots ce qui vous amène.</p>
+  <div class="ouv-actions ouv-suite" data-anime="gsap"><a class="bouton" href="#rendez-vous" data-sans-transition data-action-principale data-survol="magnetique">Demander un rendez-vous</a><a class="bouton bouton--contour" href="tel:+33467560588">04 67 56 05 88</a></div>
+  <p class="ouv-info ouv-suite" data-anime="gsap" data-info-cle>Reçu sur rendez-vous · 10 rue de la Loge, Montpellier</p><dl class="coordonnees ouv-suite" data-anime="gsap">
+    <div><dt>Téléphone</dt><dd><a href="tel:+33467560588">04 67 56 05 88</a></dd></div>
+    <div><dt>E-mail</dt><dd><a href="mailto:info@censeopatrimoine.fr">info@censeopatrimoine.fr</a></dd></div>
+    <div><dt>Adresse</dt><dd>10 rue de la Loge<br>34000 Montpellier</dd></div>
+  </dl></div>
+    <div class="ouv-contact-media" data-iris-centre style="--apercu:url(data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABwBQCdASoUABkAPs1QokunpKMht/VYAPAZiWIAnTlBVn5aDQALatRT/LCyDFx610cKbgyAAP7W9vACn4t3DPz9i2NKuErRnhsYB6lcFKjMDrXnElMnJO7JWqQXj3czUT/v/j+MM10KLuW37vEKSVyz2AVT9oK67pT9SkrOSMCkxETLvHwJP0JzoqiodtbDkBsvW0yjSwPoQAAA)"><figure class="media ouv-contact-image" data-grok data-fx="parallaxe" data-fx-force="6" style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/grok/contact-porte-784.webp" srcset="/assets/images/grok/contact-porte-480.webp 480w, /assets/images/grok/contact-porte-640.webp 640w, /assets/images/grok/contact-porte-784.webp 784w" sizes="(max-width: 760px) 92vw, 40vw" alt="Grande porte cochère bleu nuit dans une façade en pierre blonde" width="784" height="980" fetchpriority="high" loading="eager" decoding="async">
+  </picture><figcaption class="mention-ia">Illustration générée</figcaption>
+</figure><span class="battant battant--g" data-effet="porte" aria-hidden="true"></span><span class="battant battant--d" data-effet="porte" aria-hidden="true"></span></div>
+  </div>
+</section>
+<section class="fpe rdv" id="rendez-vous" data-module="formulaire-par-etapes">
+  <div class="conteneur fpe__cadre rdv-grille">
+    <div class="fpe__tete">
+      <h2 class="titre-section" data-anime="lignes">Votre demande, <em>en trois étapes</em>.</h2>
+      <p class="fpe__intro" data-anime>Choisissez le sujet, laissez vos coordonnées, vérifiez : c&#39;est tout. Formulaire de démonstration, rien n&#39;est envoyé.</p>
+      <p class="fpe__note" data-anime>CIF membre de l&#39;ANACOFI-CIF, association agréée par l&#39;AMF · ORIAS 07007944 · Courtier en assurance</p>
+    </div>
+    <div class="fpe__carton" data-anime>
+      <form class="fpe__form" novalidate aria-label="Demande de rendez-vous">
+        <div class="fpe__progression">
+          <ol class="fpe__reperes" aria-label="Progression"></ol>
+          <div class="fpe__barre" aria-hidden="true"><span></span></div>
+          <p class="fpe__etat" aria-live="polite"></p>
+        </div>
+        <fieldset class="fpe__etape" data-etape="Votre demande">
+          <legend class="fpe__legende"><h3 class="fpe__titre">Qu'est-ce qui vous amène&nbsp;?</h3></legend>
+          <div class="fpe__groupe fpe__cartes" data-libelle="Objet">
+            <label class="fpe__carte"><input type="radio" name="objet" value="diagnostic" required>
+              <svg class="fpe__icone" viewBox="0 0 32 32" aria-hidden="true"><path d="M6 26V10l10-6 10 6v16z"/><path d="M12 26v-8h8v8"/></svg>
+              <span class="fpe__carte-titre">Un diagnostic patrimonial</span><span class="fpe__carte-texte">Faire le point sur l&#39;ensemble de votre situation.</span></label><label class="fpe__carte"><input type="radio" name="objet" value="placements">
+              <svg class="fpe__icone" viewBox="0 0 32 32" aria-hidden="true"><path d="M5 25h22M8 21v-6M14 21V9M20 21v-9M26 21V6"/></svg>
+              <span class="fpe__carte-titre">Des placements financiers</span><span class="fpe__carte-texte">Assurance vie, PER, capital investissement…</span></label><label class="fpe__carte"><input type="radio" name="objet" value="portefeuille">
+              <svg class="fpe__icone" viewBox="0 0 32 32" aria-hidden="true"><rect x="5" y="9" width="22" height="16" rx="2"/><path d="M12 9V6h8v3M5 15h22"/></svg>
+              <span class="fpe__carte-titre">Une étude de portefeuille</span><span class="fpe__carte-texte">Gratuite, sur demande.</span></label><label class="fpe__carte"><input type="radio" name="objet" value="immobilier">
+              <svg class="fpe__icone" viewBox="0 0 32 32" aria-hidden="true"><path d="M5 26V13l11-8 11 8v13z"/><path d="M13 26v-7h6v7"/></svg>
+              <span class="fpe__carte-titre">Un projet immobilier</span><span class="fpe__carte-texte">SCPI, nue-propriété, achat, États-Unis…</span></label><label class="fpe__carte"><input type="radio" name="objet" value="retraite">
+              <svg class="fpe__icone" viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="11"/><path d="M16 9v7l5 3"/></svg>
+              <span class="fpe__carte-titre">La retraite ou l&#39;épargne salariale</span><span class="fpe__carte-texte">PER, PEE, épargne retraite collective.</span></label><label class="fpe__carte"><input type="radio" name="objet" value="autre">
+              <svg class="fpe__icone" viewBox="0 0 32 32" aria-hidden="true"><path d="M6 9h20v13H13l-5 4v-4H6z"/></svg>
+              <span class="fpe__carte-titre">Une autre question</span><span class="fpe__carte-texte">Fiscalité, prévoyance, réclamation…</span></label>
+          </div>
+          <fieldset class="fpe__groupe">
+            <legend class="fpe__groupe-titre">Où préférez-vous échanger&nbsp;?</legend>
+            <div class="fpe__puces">
+              <label class="fpe__puce"><input type="radio" name="lieu" value="cabinet" checked><span class="fpe__choix-texte">Au cabinet</span></label>
+              <label class="fpe__puce"><input type="radio" name="lieu" value="telephone"><span class="fpe__choix-texte">Par téléphone</span></label>
+            </div>
+          </fieldset>
+          <div class="fpe__champ">
+            <label for="rdv-message">Quelques mots sur votre situation</label>
+            <textarea id="rdv-message" name="message" rows="4" placeholder="Votre projet, votre échéance, vos questions"></textarea>
+          </div>
+        </fieldset>
+        <fieldset class="fpe__etape" data-etape="Coordonnées">
+          <legend class="fpe__legende"><h3 class="fpe__titre">Comment vous joindre&nbsp;?</h3></legend>
+          <div class="fpe__grille">
+            <div class="fpe__champ"><label for="rdv-prenom">Prénom <i aria-hidden="true">*</i></label><input id="rdv-prenom" name="prenom" autocomplete="given-name" required></div>
+            <div class="fpe__champ"><label for="rdv-nom">Nom <i aria-hidden="true">*</i></label><input id="rdv-nom" name="nom" autocomplete="family-name" required></div>
+            <div class="fpe__champ"><label for="rdv-email">E-mail <i aria-hidden="true">*</i></label><input id="rdv-email" name="email" type="email" autocomplete="email" required></div>
+            <div class="fpe__champ"><label for="rdv-tel">Téléphone</label><input id="rdv-tel" name="tel" type="tel" inputmode="tel" autocomplete="tel" pattern="[0-9 +().\-]{8,20}"></div>
+          </div>
+          <label class="fpe__case"><input type="checkbox" name="accord" value="oui" required data-libelle="Accord" data-hors-recap><span class="fpe__choix-texte">J'accepte que ces informations servent uniquement à répondre à ma demande. <i aria-hidden="true">*</i></span></label>
+          <p class="fpe__aide">Vos informations servent uniquement à répondre à votre demande. Politique de confidentialité : à compléter.</p>
+        </fieldset>
+        <fieldset class="fpe__etape" data-etape="Récapitulatif" data-recap>
+          <legend class="fpe__legende"><h3 class="fpe__titre">Tout est juste&nbsp;?</h3></legend>
+          <div class="fpe__recap"><p>Le récapitulatif de vos réponses s'affiche ici.</p></div>
+        </fieldset>
+        <div class="fpe__nav">
+          <button class="fpe__bouton fpe__bouton--ligne" type="button" data-precedent>Retour</button>
+          <button class="fpe__bouton" type="button" data-suivant data-retour="Revenir au récapitulatif">Continuer</button>
+          <button class="fpe__bouton" type="submit">Envoyer la demande</button>
+        </div>
+      </form>
+      <div class="fpe__fin" hidden>
+        <svg class="fpe__coche" viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="28"/><path d="M20 33l8 8 16-17"/></svg>
+        <h3>Merci, votre demande est prête.</h3>
+        <p data-resume></p>
+        <p>Démonstration&nbsp;: rien n'a été envoyé. Sur le site en ligne, la demande parviendrait au cabinet, qui vous recontacterait.</p>
+        <div class="fpe__fin-actions">
+          <button class="fpe__bouton fpe__bouton--ligne" type="button" data-recommencer>Nouvelle demande</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="acces" id="acces">
+  <div class="conteneur acces-grille">
+    <div>
+      <h2 class="titre-section" data-anime="lignes">Venir <em>au cabinet</em>.</h2>
+      <p data-anime>Le cabinet est rue de la Loge, une rue piétonne du centre historique, entre la place de la Comédie et les halles Castellane.</p>
+      <ul class="atouts" data-anime="cascade"><li>Tramway : arrêt Comédie, à quelques minutes à pied.</li><li>Reçu sur rendez-vous.</li><li>10 rue de la Loge<br>34000 Montpellier</li></ul>
+    </div>
+    <figure class="plan" data-visuel>
+      <svg class="plan-svg" viewBox="0 0 600 420" role="img" aria-labelledby="plan-titre" data-fx="trace">
+        <title id="plan-titre">Plan simplifié, sans échelle : Rue de la Loge, de la place de la Comédie aux halles Castellane</title>
+        <g class="plan-ilots" aria-hidden="true">
+          <path d="M40 60h150l20 80H60z"/><path d="M230 40h120l-10 90H240z"/><path d="M380 50h160l10 110H390z"/>
+          <path d="M40 250h130l30 110H50z"/><path d="M220 270h140l-10 110H230z"/><path d="M390 280h150l-20 100H400z"/>
+          <path d="M60 180h110l10 40H70z"/><path d="M400 200h70l10 40h-80z"/>
+        </g>
+        <path class="plan-rue" d="M95 205 C 180 195, 260 225, 330 215 S 440 190, 510 205"/>
+        <path class="plan-itineraire" d="M520 340 C 520 290, 515 250, 505 212 C 470 200, 420 212, 330 215" data-fx-trait/>
+        <ellipse class="plan-comedie" cx="530" cy="355" rx="46" ry="30"/>
+        <circle class="plan-halles" cx="95" cy="205" r="22"/>
+        <circle class="plan-jaures" cx="250" cy="212" r="16"/>
+        <g class="plan-repere" data-repere transform="translate(330 215)"><circle r="13"/><path d="M-5 4V-2a5 5 0 0 1 10 0v6" fill="none"/></g>
+        <text x="330" y="150" class="plan-texte plan-texte--fort" text-anchor="middle">Censeo Patrimoine</text>
+        <text x="330" y="186" class="plan-texte" text-anchor="middle">n° 10</text>
+        <text x="430" y="266" class="plan-texte" text-anchor="middle">Rue de la Loge</text>
+        <text x="590" y="412" class="plan-texte" text-anchor="end">Place de la Comédie</text>
+        <text x="20" y="266" class="plan-texte" text-anchor="start">Halles Castellane</text>
+        <text x="250" y="252" class="plan-texte plan-texte--petit" text-anchor="middle">Place Jean-Jaurès</text>
+        <text x="470" y="322" class="plan-texte plan-texte--petit" text-anchor="end">Tram Comédie</text>
+      </svg>
+      <figcaption class="plan-legende">Plan simplifié, sans échelle</figcaption>
+    </figure>
+  </div>
+</section>
+</main>
+<footer class="pied" id="pied">
+  <div class="conteneur pied-grille">
+    <div class="pied-marque">
+      <p class="pied-logo"><img src="/assets/images/logo-clair.svg" alt="" width="30" height="36"><span class="logo-mot">Censeo<small>patrimoine</small></span></p>
+      <p>10 rue de la Loge<br>34000 Montpellier<br><a href="tel:+33467560588">04 67 56 05 88</a><br><a href="mailto:info@censeopatrimoine.fr">info@censeopatrimoine.fr</a></p>
+    </div>
+    <nav aria-label="Sommaire">
+      <p class="pied-titre">Sommaire</p>
+      <ul><li><a href="/" data-libelle="Accueil">Accueil</a></li><li><a href="/offre-financiere" data-libelle="Offre financière">Offre financière</a></li><li><a href="/offre-immobiliere" data-libelle="Offre immobilière">Offre immobilière</a></li><li><a href="/cabinet" data-libelle="Le cabinet">Le cabinet</a></li><li><a href="/contact" data-libelle="Contact" aria-current="page">Contact</a></li><li><a href="#haut" data-sans-transition>Retour en haut</a></li></ul>
+    </nav>
+    <div>
+      <p class="pied-titre">Le cabinet</p>
+      <p class="pied-statuts">CIF membre de l&#39;ANACOFI-CIF, association agréée par l&#39;AMF · ORIAS 07007944 · Courtier en assurance</p>
+      <p class="pied-legal"><span>Mentions légales : à compléter</span><br><span>Politique de confidentialité : à compléter</span></p>
+    </div>
+  </div>
+  <div class="conteneur pied-bas"><p>Tout investissement comporte un risque de perte en capital. Les performances passées ne préjugent pas des performances futures.</p><p>Maquette de démonstration : formulaires simulés, rien n&#39;est envoyé. © Censeo Patrimoine</p></div>
+</footer>
+<div data-barre-fixe>
+  <a class="bouton bouton--contour" href="tel:+33467560588">Appeler</a>
+  <a class="bouton" href="/contact#rendez-vous" data-libelle="Contact">Prendre rendez-vous</a>
+</div>
+</body>
+</html>

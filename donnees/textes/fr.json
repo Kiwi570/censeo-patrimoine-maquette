@@ -1,0 +1,313 @@
+{
+  "commun": {
+    "navigation": "Navigation principale",
+    "menu": "Menu",
+    "fermer": "Fermer",
+    "langueAutre": "English version",
+    "actionEntete": "Prendre rendez-vous",
+    "appeler": "Appeler",
+    "sommaire": "Sommaire",
+    "confort": "Le cabinet",
+    "retourHaut": "Retour en haut",
+    "maquette": "Maquette de démonstration : formulaires simulés, rien n'est envoyé.",
+    "evitement": "Aller au contenu",
+    "mentionIa": "Illustration générée",
+    "pause": "Pause",
+    "lecture": "Lecture",
+    "introLigne": "« j'estime », en latin",
+    "introMot": "Cēnseō",
+    "logoSous": "patrimoine",
+    "mentions": "Mentions légales",
+    "confidentialite": "Politique de confidentialité",
+    "aCompleter": "à compléter",
+    "risque": "Tout investissement comporte un risque de perte en capital. Les performances passées ne préjugent pas des performances futures.",
+    "statutsCourts": "CIF membre de l'ANACOFI-CIF, association agréée par l'AMF · ORIAS 07007944 · Courtier en assurance",
+    "adresse": "10 rue de la Loge<br>34000 Montpellier",
+    "illustratif": "Illustratif",
+    "mentionsLegales": "Mentions légales : à compléter",
+    "confidentialiteLegale": "Politique de confidentialité : à compléter"
+  },
+  "pages": {
+    "accueil": {
+      "titre": "Censeo Patrimoine : conseil en gestion de patrimoine à Montpellier",
+      "description": "Jean-Marie Kassigian conseille particuliers et chefs d'entreprise depuis 2004 : diagnostic patrimonial, placements financiers, immobilier, fiscalité. 10 rue de la Loge, Montpellier.",
+      "nav": "Accueil",
+      "partageAlt": "Censeo Patrimoine : bâtir un patrimoine qui dure, cour d'hôtel particulier en pierre blonde",
+      "accroche": "Bâtir un patrimoine qui dure."
+    },
+    "offre-financiere": {
+      "titre": "Offre financière : Censeo Patrimoine, Montpellier",
+      "description": "Diagnostic patrimonial, assurance vie, PER, gestion de portefeuilles, défiscalisation, épargne salariale, capital investissement, forêts et œuvres d'art.",
+      "nav": "Offre financière",
+      "partageAlt": "Offre financière de Censeo Patrimoine",
+      "accroche": "Faire travailler votre épargne, sans perdre le fil."
+    },
+    "offre-immobiliere": {
+      "titre": "Offre immobilière : Censeo Patrimoine, Montpellier",
+      "description": "SCPI, nue-propriété, immobilier direct, crowdfunding immobilier et immobilier aux États-Unis : la pierre, à votre façon.",
+      "nav": "Offre immobilière",
+      "partageAlt": "Offre immobilière de Censeo Patrimoine",
+      "accroche": "La pierre, à votre façon."
+    },
+    "cabinet": {
+      "titre": "Le cabinet : Censeo Patrimoine, depuis 2004",
+      "description": "Jean-Marie Kassigian, conseiller en gestion de patrimoine, sa méthode, ses statuts, sa rémunération et ses partenaires.",
+      "nav": "Le cabinet",
+      "partageAlt": "Le cabinet Censeo Patrimoine, fondé en 2004",
+      "accroche": "Un cabinet, un conseiller, depuis 2004."
+    },
+    "contact": {
+      "titre": "Prendre rendez-vous : Censeo Patrimoine, 10 rue de la Loge",
+      "description": "Demandez un rendez-vous, appelez le 04 67 56 05 88 ou venez au 10 rue de la Loge, au cœur de l'Écusson, à Montpellier.",
+      "nav": "Contact",
+      "partageAlt": "Prendre rendez-vous chez Censeo Patrimoine",
+      "accroche": "Parlons de votre patrimoine."
+    },
+    "404": {
+      "titre": "Page introuvable : Censeo Patrimoine",
+      "description": "Cette page n'existe pas ou plus.",
+      "nav": "Page introuvable",
+      "partageAlt": "Page introuvable",
+      "accroche": "Page introuvable"
+    }
+  },
+  "accueil": {
+    "hero": {
+      "sur": "Gestion de patrimoine · Montpellier, depuis 2004",
+      "titre1": "Bâtir un patrimoine",
+      "titre2": "qui <em>dure</em>.",
+      "texte": "Jean-Marie Kassigian conseille les particuliers, les chefs d'entreprise et les professions libérales : diagnostic patrimonial, placements financiers, immobilier et fiscalité.",
+      "action": "Prendre rendez-vous",
+      "info": "CIF · ORIAS 07007944 · 10 rue de la Loge",
+      "alt": "Cour intérieure d'un hôtel particulier en pierre blonde, escalier de pierre au fond"
+    },
+    "reperes": {
+      "titre": "Quelques repères",
+      "texte": "Un même conseiller, une même adresse dans l'Écusson, et le temps long comme méthode."
+    },
+    "metiers": {
+      "sur": "Deux métiers",
+      "titre": "Le financier et la pierre, <em>pensés ensemble</em>.",
+      "texte": "Un patrimoine équilibré se construit des deux côtés : les placements qui le font travailler, l'immobilier qui l'ancre.",
+      "financier": "Offre financière",
+      "financierTexte": "Assurance vie, PER, portefeuilles, défiscalisation, épargne salariale, capital investissement, forêts et œuvres d'art.",
+      "immobilier": "Offre immobilière",
+      "immobilierTexte": "SCPI, nue-propriété, immobilier direct, crowdfunding immobilier et immobilier aux États-Unis.",
+      "voir": "Découvrir"
+    },
+    "pierres": {
+      "sur": "Pierre à pierre",
+      "titre": "Un patrimoine se bâtit <em>par assises</em>.",
+      "texte": "Comme les hôtels particuliers de l'Écusson : une fondation, puis des assises qui ont chacune leur rôle. Le diagnostic vient toujours en premier.",
+      "note": "L'ordre et la part de chaque assise dépendent de votre situation.",
+      "region": "Le mur du patrimoine, assise par assise"
+    },
+    "methode": {
+      "sur": "La méthode",
+      "titre": "Quatre temps, <em>et le suivi</em> qui ne s'arrête pas.",
+      "lien": "La méthode en détail"
+    },
+    "conseiller": {
+      "sur": "Le conseiller",
+      "titre": "Jean-Marie <em>Kassigian</em>",
+      "texte": "Titulaire d'un DESS de gestion de patrimoine depuis 1993, il a passé neuf ans dans deux établissements financiers avant de fonder Censeo Patrimoine à Montpellier, en 2004.",
+      "atout1": "Autonomie capitalistique",
+      "atout2": "Suivi permanent des placements",
+      "atout3": "Partenaires reconnus",
+      "lien": "Découvrir le cabinet",
+      "altBureau": "Bureau de rendez-vous : table ronde en chêne et deux fauteuils près d'une haute fenêtre"
+    },
+    "rue": {
+      "sur": "10 rue de la Loge",
+      "titre": "Au cœur de la <em>rue dorée</em>.",
+      "texte": "La rue de la Loge doit son nom à l'ancienne loge des marchands de Montpellier. Au Moyen Âge, les orfèvres qui y tenaient boutique lui valaient un autre nom : la rue dorée. Le cabinet y reçoit sur rendez-vous, entre la place de la Comédie et les halles Castellane.",
+      "lien": "Venir au cabinet",
+      "alt": "Rue piétonne de vieille ville en pierre blonde au soleil du matin"
+    },
+    "transparence": {
+      "sur": "Transparence",
+      "titre": "Ce qu'il faut savoir <em>avant de commencer</em>.",
+      "lien": "Statuts et rémunération en détail",
+      "partenaires": "Partenaires cités par le cabinet"
+    },
+    "fin": {
+      "titre": "Parlons de <em>votre</em> patrimoine.",
+      "texte": "Un premier rendez-vous pour faire le point sur votre situation et vos objectifs, au cabinet ou par téléphone.",
+      "action": "Prendre rendez-vous",
+      "alt": "Arcades de pierre éclairées à la tombée du jour"
+    }
+  },
+  "financiere": {
+    "sur": "Offre financière",
+    "titre1": "Faire travailler votre épargne,",
+    "titre2": "<em>sans perdre le fil.</em>",
+    "texte": "Un diagnostic d'abord, puis des solutions choisies auprès de partenaires sélectionnés, et un suivi dans la durée.",
+    "action": "Demander un diagnostic",
+    "info": "Étude de portefeuille gratuite sur demande",
+    "alt": "Grande table de travail en chêne, carnet, lampe en laiton et rapports reliés",
+    "sommaire": "Les huit solutions",
+    "diagnostic": {
+      "titre": "Le diagnostic, <em>avant tout</em>.",
+      "texte": "La gestion de patrimoine demande une approche globale, parce que l'environnement change : on vit plus longtemps, la retraite par répartition a ses limites, la fiscalité évolue. Le diagnostic fait le point sur votre situation et vos objectifs, puis débouche sur des préconisations.",
+      "c1": "Vivre plus longtemps",
+      "c1t": "Un patrimoine doit tenir sur une retraite plus longue.",
+      "c2": "Une retraite à anticiper",
+      "c2t": "Le régime par répartition a ses limites.",
+      "c3": "Une fiscalité qui change",
+      "c3t": "Chaque loi de finances peut déplacer les équilibres."
+    },
+    "contrats": {
+      "titre": "Les enveloppes <em>du temps long</em>.",
+      "texte": "Le cabinet sélectionne les contrats auprès de ses partenaires assureurs et plateformes."
+    },
+    "portefeuille": {
+      "titre": "Gérer un portefeuille, <em>à deux mains</em>.",
+      "texte": "En gestion directe, avec l'expérience du dirigeant, ou sous mandat confié à une société de gestion. Une étude de votre portefeuille actuel est réalisée gratuitement sur demande.",
+      "direct": "Gestion directe",
+      "directTexte": "Les choix sont faits avec vous, ligne à ligne, et suivis en permanence.",
+      "mandat": "Gestion sous mandat",
+      "mandatTexte": "Une société de gestion indépendante gère selon le profil défini ensemble.",
+      "action": "Demander une étude de portefeuille"
+    },
+    "diversifier": {
+      "titre": "Diversifier, <em>hors des sentiers battus</em>.",
+      "texte": "Des actifs réels, de long terme, souvent moins liquides : à réserver à une partie du patrimoine, après le diagnostic.",
+      "risque": "Actifs peu liquides et non garantis : perte en capital possible, revente parfois longue. À réserver à une part limitée du patrimoine."
+    },
+    "fiscal": {
+      "titre": "Fiscalité, salariés <em>et prévoyance</em>."
+    },
+    "partenaires": "Partenaires financiers cités par le cabinet",
+    "fin": {
+      "titre": "Votre épargne mérite <em>un diagnostic</em>.",
+      "action": "Demander un diagnostic"
+    }
+  },
+  "immobiliere": {
+    "sur": "Offre immobilière",
+    "titre1": "La pierre,",
+    "titre2": "<em>à votre façon.</em>",
+    "texte": "En direct, en parts, en nue-propriété, en financement participatif ou outre-Atlantique : cinq façons d'investir dans l'immobilier.",
+    "action": "Parler d'un projet immobilier",
+    "info": "Agent immobilier local partenaire : plus de 30 ans d'expérience",
+    "alt": "Petite place de vieille ville bordée d'immeubles en pierre blonde, au soleil couchant",
+    "facons": "Cinq façons d'investir",
+    "scpi": {
+      "titre": "SCPI : l'immobilier <em>en parts</em>.",
+      "texte": "Une sélection de sociétés civiles de placement immobilier, gérées par des spécialistes : bureaux, murs de commerces, résidentiel. Vous ne gérez rien, les risques locatifs sont mutualisés.",
+      "modes": "Quatre façons de les détenir",
+      "m1": "En direct",
+      "m2": "À crédit",
+      "m3": "En nue-propriété",
+      "m4": "Dans l'assurance vie",
+      "deficit": "SCPI de déficit foncier",
+      "deficitTexte": "Les travaux de rénovation viennent en déduction des revenus fonciers, puis, dans une certaine limite, du revenu global : une solution pour les contribuables fortement imposés.",
+      "risque": "Capital non garanti, revenus variables, liquidité limitée : les parts se conservent sur le long terme.",
+      "alt": "Immeuble de commerces et de bureaux en centre-ville"
+    },
+    "nue": {
+      "titre": "Nue-propriété : acheter <em>moins cher</em>, posséder plus tard.",
+      "texte": "Le démembrement temporaire partage la propriété pour une durée fixée dès le départ, souvent une quinzaine d'années. L'usufruitier perçoit les loyers ; vous achetez la nue-propriété avec une décote, et récupérez la pleine propriété à la fin, sans formalités.",
+      "pour": "Pour qui ? Les contribuables fortement imposés qui veulent se constituer un patrimoine sans revenus immédiats.",
+      "atout1": "Ni gestion, ni loyers à encaisser",
+      "atout2": "Ni taxe foncière pendant le démembrement",
+      "atout3": "Pleine propriété à l'échéance",
+      "schemaTitre": "Le démembrement, année après année",
+      "schemaUsufruit": "Usufruit : l'usufruitier perçoit les loyers",
+      "schemaNue": "Nue-propriété : votre part",
+      "schemaPleine": "Pleine propriété",
+      "schemaDebut": "Achat",
+      "schemaFin": "Échéance",
+      "schemaNote": "Schéma illustratif : la décote et la durée varient selon le bien et le programme.",
+      "alt": "Séjour vide et lumineux, parquet en chevrons et porte-fenêtre"
+    },
+    "direct": {
+      "titre": "L'immobilier <em>en direct</em>.",
+      "texte": "Pour acheter ou vendre un bien, le cabinet travaille avec un agent immobilier local qui compte plus de 30 ans d'expérience."
+    },
+    "crowd": {
+      "titre": "Le crowdfunding <em>immobilier</em>.",
+      "texte": "Financer des opérations de promotion aux côtés d'autres investisseurs, sur une durée courte et connue d'avance. Un placement risqué : perte en capital possible, retard ou défaut de l'opérateur."
+    },
+    "usa": {
+      "titre": "Investir <em>aux États-Unis</em>.",
+      "texte": "Pour diversifier hors d'Europe, le cabinet accompagne l'achat de biens locatifs aux États-Unis, de A à Z, avec des gestionnaires locaux qui comptent au moins dix ans d'expérience.",
+      "villes": "Orlando · Tampa · Memphis · Los Angeles",
+      "risque": "Risque de change, fiscalité américaine et française, gestion à distance : à étudier avant tout achat.",
+      "alt": "Maison individuelle de plain-pied avec pelouse et palmiers"
+    },
+    "partenaires": "Partenaires immobiliers cités par le cabinet",
+    "fin": {
+      "titre": "Un projet dans <em>la pierre</em> ?",
+      "action": "Parler d'un projet immobilier"
+    }
+  },
+  "cabinet": {
+    "sur": "Le cabinet",
+    "titre1": "Un cabinet,",
+    "titre2": "<em>un conseiller.</em>",
+    "texte": "Censeo Patrimoine est une SARL montpelliéraine, fondée et dirigée par Jean-Marie Kassigian, conseiller en gestion de patrimoine.",
+    "action": "Prendre rendez-vous",
+    "info": "SARL · RCS Montpellier 477 693 097",
+    "alt": "Escalier de pierre en colimaçon et sa rampe en fer forgé",
+    "parcours": {
+      "titre": "Un parcours, <em>une adresse</em>."
+    },
+    "portrait": {
+      "titre": "Censeo : <em>« j'estime »</em>.",
+      "texte": "En latin, cēnseō veut dire « j'estime, j'évalue ». C'est le premier geste du conseil : regarder une situation telle qu'elle est, avant de proposer quoi que ce soit.",
+      "alt": "Jean-Marie Kassigian, conseiller en gestion de patrimoine"
+    },
+    "methode": {
+      "titre": "Quatre temps, <em>pas à pas</em>.",
+      "sur": "La méthode"
+    },
+    "statuts": {
+      "titre": "Statuts, rémunération, <em>médiation</em>.",
+      "texte": "Les informations ci-dessous viennent du document d'entrée en relation du cabinet, remis avant tout conseil."
+    },
+    "faq": {
+      "titre": "Questions <em>fréquentes</em>"
+    },
+    "fin": {
+      "titre": "Faisons <em>connaissance</em>.",
+      "action": "Prendre rendez-vous"
+    }
+  },
+  "contact": {
+    "sur": "Contact",
+    "titre1": "Prendre",
+    "titre2": "<em>rendez-vous.</em>",
+    "texte": "Au cabinet, au cœur de l'Écusson, ou par téléphone. Dites-nous en quelques mots ce qui vous amène.",
+    "action": "Demander un rendez-vous",
+    "telephone": "Téléphone",
+    "email": "E-mail",
+    "adresse": "Adresse",
+    "alt": "Grande porte cochère bleu nuit dans une façade en pierre blonde",
+    "formulaire": {
+      "titre": "Votre demande, <em>en trois étapes</em>.",
+      "texte": "Choisissez le sujet, laissez vos coordonnées, vérifiez : c'est tout. Formulaire de démonstration, rien n'est envoyé.",
+      "donnees": "Vos informations servent uniquement à répondre à votre demande. Politique de confidentialité : à compléter."
+    },
+    "acces": {
+      "titre": "Venir <em>au cabinet</em>.",
+      "texte": "Le cabinet est rue de la Loge, une rue piétonne du centre historique, entre la place de la Comédie et les halles Castellane.",
+      "tram": "Tramway : arrêt Comédie, à quelques minutes à pied.",
+      "rdv": "Reçu sur rendez-vous.",
+      "plan": "Plan simplifié, sans échelle",
+      "comedie": "Place de la Comédie",
+      "loge": "Rue de la Loge",
+      "jaures": "Place Jean-Jaurès",
+      "castellane": "Halles Castellane",
+      "cabinet": "Censeo Patrimoine, n° 10",
+      "tramArret": "Tram Comédie"
+    },
+    "info": "Reçu sur rendez-vous · 10 rue de la Loge, Montpellier"
+  },
+  "introuvable": {
+    "titre": "Cette page n'est pas <em>au registre</em>.",
+    "texte": "Elle n'existe pas ou plus. Même un bon conseiller ne trouve pas tout : revenez à l'accueil ou appelez le cabinet.",
+    "retour": "Revenir à l'accueil",
+    "alt": "Bureau vide, carnet fermé et loupe en laiton"
+  }
+}

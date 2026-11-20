@@ -1,0 +1,15 @@
+{
+  "nom": "Censeo Patrimoine",
+  "adresse": "https://censeo-patrimoine-maquette.vercel.app",
+  "siteActuel": "censeopatrimoine.fr",
+  "version": 1,
+  "langues": ["fr"],
+  "navigation": ["accueil", "offre-financiere", "offre-immobiliere", "cabinet", "contact"],
+  "actionEntete": { "page": "contact", "ancre": "rendez-vous" },
+  "couleurs": { "fond": "#F4EFE6", "texte": "#1A2233", "voile": "#14223A", "ouverture": "#14223A", "menu": "#F4EFE6", "theme": "#F4EFE6" },
+  "formeVoile": "rideau",
+  "contact": { "telephone": "04 67 56 05 88", "telephoneLien": "+33467560588", "email": "info@censeopatrimoine.fr", "adresse": "10 rue de la Loge, 34000 Montpellier" },
+  "polices": ["/assets/fonts/instrument-serif-latin-400-normal.woff2", "/assets/fonts/hanken-grotesk-latin-400-normal.woff2"],
+  "imagePartage": "grok/accueil-ouverture-1280.webp",
+  "curseur": true
+}

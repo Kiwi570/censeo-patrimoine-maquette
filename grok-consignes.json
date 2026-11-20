@@ -1,0 +1,280 @@
+{
+  "client": "Censeo Patrimoine",
+  "activite": "finance",
+  "direction": "La rue dorée",
+  "date": "2026-11-20T16:38:10.803Z",
+  "images": [
+    {
+      "nom": "accueil-ouverture",
+      "fichier": "accueil-ouverture.jpg",
+      "page": "Accueil",
+      "emplacement": "ouverture (photo dans une arche, puis plein écran) (ordinateur)",
+      "role": "ouverture",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "ouverture",
+      "pieges": [],
+      "consigne": "The inner courtyard of an eighteenth-century townhouse in pale blond limestone, seen through its tall round-arched carriage entrance, a monumental stone staircase with a wrought-iron banister in the warm light at the back, potted olive tree, worn stone paving, nobody, the arch and staircase centred in the frame. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, generous empty space on the left third of the frame for a title. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "accueil-ouverture",
+      "fichier": "accueil-ouverture-mobile.jpg",
+      "page": "Accueil",
+      "emplacement": "ouverture (photo dans une arche, puis plein écran) (téléphone)",
+      "role": "ouverture",
+      "format": "9:16",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "ouverture",
+      "pieges": [],
+      "consigne": "The inner courtyard of an eighteenth-century townhouse in pale blond limestone, seen through its tall round-arched carriage entrance, a monumental stone staircase with a wrought-iron banister in the warm light at the back, potted olive tree, worn stone paving, nobody, the arch and staircase centred in the frame. Vertical composition, aspect ratio 9:16, highest resolution available, at least 1080 pixels wide, main subject well inside the central area with generous margins on every side, so the image can be cropped, main subject in the lower half, quiet uncluttered area in the upper half for a title. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "accueil-financier",
+      "fichier": "accueil-financier.jpg",
+      "page": "Accueil",
+      "emplacement": "carte « Offre financière »",
+      "role": "carte-service",
+      "format": "2:3",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "scene-metier",
+      "pieges": [
+        "texte parasite"
+      ],
+      "consigne": "An oak desk by a tall window in a room with pale limestone walls, an open linen-bound notebook with handwritten lines too small to read, a brass fountain pen, a closed leather folder and a small potted plant, warm raking light, nobody. Vertical composition, aspect ratio 2:3. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. Pages completely blank, blank book spines, abstract unreadable marks, plain unmarked surfaces, dials with tick marks only and no numbers. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "accueil-immobilier",
+      "fichier": "accueil-immobilier.jpg",
+      "page": "Accueil",
+      "emplacement": "carte « Offre immobilière »",
+      "role": "carte-service",
+      "format": "2:3",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "scene-metier",
+      "pieges": [],
+      "consigne": "Looking up at the facade of an eighteenth-century townhouse in pale blond limestone, tall windows with grey-blue wooden shutters and delicate wrought-iron balconies, a strip of deep blue sky at the top, golden light on the stone, nobody, no signs. Vertical composition, aspect ratio 2:3. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "pierre-texture",
+      "fichier": "pierre-texture.jpg",
+      "page": "Accueil",
+      "emplacement": "matière des pierres de la section « Pierre à pierre »",
+      "role": "section-fond",
+      "format": "3:2",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "texture",
+      "pieges": [],
+      "consigne": "Macro photograph of a flat wall of dressed blond limestone ashlar blocks with thin lime mortar joints, fine fossil shell texture in the stone, perfectly even soft lighting, seamless texture filling the whole frame, no objects. Landscape composition, aspect ratio 3:2, quiet uncluttered area in the upper half for a title. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "accueil-bureau",
+      "fichier": "accueil-bureau.jpg",
+      "page": "Accueil",
+      "emplacement": "section « Le conseiller »",
+      "role": "section-fond",
+      "format": "3:2",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "lieu",
+      "pieges": [
+        "texte parasite"
+      ],
+      "consigne": "A quiet consulting room on the first floor of an old limestone townhouse, a round oak table with two upholstered chairs facing each other, a closed notebook and a glass carafe on the table, tall window with wooden shutters half open, bookshelves in soft focus, warm afternoon light, nobody. Landscape composition, aspect ratio 3:2, calm empty area in the right third of the frame for a title. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. Pages completely blank, blank book spines, abstract unreadable marks, plain unmarked surfaces, dials with tick marks only and no numbers. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "accueil-rue",
+      "fichier": "accueil-rue.jpg",
+      "page": "Accueil",
+      "emplacement": "section « La rue dorée »",
+      "role": "section-fond",
+      "format": "3:2",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "section-fond",
+      "pieges": [],
+      "consigne": "A narrow pedestrian street of an old town in the south of France in early morning, pale blond limestone facades, ground-floor shop fronts with blank wooden signboards, wrought-iron balconies, warm sunlight reaching the upper floors and the paving still in soft shade, two passers-by far away as small blurred silhouettes. Landscape composition, aspect ratio 3:2, generous empty space on the left third of the frame for a title. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "accueil-loge",
+      "fichier": "accueil-loge.jpg",
+      "page": "Accueil",
+      "emplacement": "appel final (rendez-vous)",
+      "role": "section-fond",
+      "format": "3:2",
+      "grok": "1168×784",
+      "priorite": "Conseillée",
+      "gabarit": "section-fond",
+      "pieges": [],
+      "consigne": "A row of three stone arcades of an old merchants' loggia in pale limestone at dusk, warm lantern light glowing under the vaults, deep night-blue sky above, smooth worn paving, nobody, calm and quiet. Landscape composition, aspect ratio 3:2, quiet uncluttered area in the upper half for a title. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "financiere-ouverture",
+      "fichier": "financiere-ouverture.jpg",
+      "page": "Offre financière",
+      "emplacement": "bandeau sous le grand titre",
+      "role": "section-fond",
+      "format": "21:9",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "section-fond",
+      "pieges": [
+        "texte parasite"
+      ],
+      "consigne": "A long oak library table seen from the side in a room with pale limestone walls, an open notebook, a brass desk lamp, a small stack of linen-bound reports with blank covers and a pair of reading glasses, all objects grouped in the central third of the frame, soft golden window light from the left, nobody. Panoramic composition, aspect ratio 21:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, quiet uncluttered area in the upper half for a title. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. Pages completely blank, blank book spines, abstract unreadable marks, plain unmarked surfaces, dials with tick marks only and no numbers. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "financiere-forets",
+      "fichier": "financiere-forets.jpg",
+      "page": "Offre financière",
+      "emplacement": "carte « Bois, forêts et terres agricoles »",
+      "role": "galerie",
+      "format": "3:4",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "scene-metier",
+      "pieges": [
+        "visages"
+      ],
+      "consigne": "A managed forest of tall straight oak and pine trees on gentle hills in the south of France, sunlight filtering through the canopy in long golden rays, a soft carpet of leaves and a forest track, nobody. Vertical composition, aspect ratio 3:4, main subject well inside the central area with generous margins on every side, so the image can be cropped. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. Seen strictly from behind, face never visible, head turned away, or cropped at the shoulders. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "financiere-art",
+      "fichier": "financiere-art.jpg",
+      "page": "Offre financière",
+      "emplacement": "carte « Œuvres d'art »",
+      "role": "galerie",
+      "format": "3:4",
+      "grok": "784×1168",
+      "priorite": "Conseillée",
+      "gabarit": "scene-metier",
+      "pieges": [],
+      "consigne": "A quiet private gallery room with a pale limestone wall and an oak floor, two large framed abstract colour-field paintings in ochre and night blue seen at an angle, a wooden bench, soft overhead light, nobody. Vertical composition, aspect ratio 3:4, main subject well inside the central area with generous margins on every side, so the image can be cropped. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "financiere-entreprises",
+      "fichier": "financiere-entreprises.jpg",
+      "page": "Offre financière",
+      "emplacement": "carte « Capital investissement »",
+      "role": "galerie",
+      "format": "3:4",
+      "grok": "784×1168",
+      "priorite": "Conseillée",
+      "gabarit": "scene-metier",
+      "pieges": [
+        "visages"
+      ],
+      "consigne": "A bright workshop of a small innovative company in a converted stone building, prototypes and wooden models on a long workbench, plants, large windows, two people working in the background in soft motion blur so no face is visible. Vertical composition, aspect ratio 3:4, main subject well inside the central area with generous margins on every side, so the image can be cropped. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. Seen strictly from behind, face never visible, head turned away, or cropped at the shoulders. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "immobiliere-ouverture",
+      "fichier": "immobiliere-ouverture.jpg",
+      "page": "Offre immobilière",
+      "emplacement": "ouverture plein cadre (ordinateur)",
+      "role": "ouverture",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "ouverture",
+      "pieges": [],
+      "consigne": "A small quiet square in an old town in the south of France at golden hour, eighteenth-century townhouses in pale blond limestone with tall shuttered windows and wrought-iron balconies, a plane tree, worn stone paving, nobody, no shop signs. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, the lower third stays dark and simple for text overlay. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "immobiliere-ouverture",
+      "fichier": "immobiliere-ouverture-mobile.jpg",
+      "page": "Offre immobilière",
+      "emplacement": "ouverture plein cadre (téléphone)",
+      "role": "ouverture",
+      "format": "9:16",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "ouverture",
+      "pieges": [],
+      "consigne": "A small quiet square in an old town in the south of France at golden hour, eighteenth-century townhouses in pale blond limestone with tall shuttered windows and wrought-iron balconies, a plane tree, worn stone paving, nobody, no shop signs. Vertical composition, aspect ratio 9:16, highest resolution available, at least 1080 pixels wide, main subject well inside the central area with generous margins on every side, so the image can be cropped, main subject in the lower half, quiet uncluttered area in the upper half for a title. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "immobiliere-scpi",
+      "fichier": "immobiliere-scpi.jpg",
+      "page": "Offre immobilière",
+      "emplacement": "SCPI",
+      "role": "vignette",
+      "format": "3:2",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "scene-metier",
+      "pieges": [],
+      "consigne": "A modern mixed-use building in a French city centre: ground-floor shop fronts with blank glass and no signs, offices with large windows above, clean pale stone and glass facade, soft morning light, a few blurred passers-by far away. Landscape composition, aspect ratio 3:2. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "immobiliere-nue-propriete",
+      "fichier": "immobiliere-nue-propriete.jpg",
+      "page": "Offre immobilière",
+      "emplacement": "Nue-propriété",
+      "role": "vignette",
+      "format": "3:2",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "scene-metier",
+      "pieges": [],
+      "consigne": "A bright empty apartment living room with herringbone oak parquet, tall French windows open onto a small wrought-iron balcony, white walls and moulded ceiling, warm afternoon sun on the floor, nobody, no furniture. Landscape composition, aspect ratio 3:2. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "immobiliere-usa",
+      "fichier": "immobiliere-usa.jpg",
+      "page": "Offre immobilière",
+      "emplacement": "Immobilier aux États-Unis",
+      "role": "vignette",
+      "format": "3:2",
+      "grok": "1168×784",
+      "priorite": "Conseillée",
+      "gabarit": "scene-metier",
+      "pieges": [],
+      "consigne": "A single-storey suburban family house in a warm subtropical climate, light stucco walls, a low roof, a green lawn and two palm trees, clear blue sky, late-afternoon light, nobody, no cars, no signs. Landscape composition, aspect ratio 3:2. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "cabinet-escalier",
+      "fichier": "cabinet-escalier.jpg",
+      "page": "Le cabinet",
+      "emplacement": "ouverture (à côté du grand « 2004 »)",
+      "role": "galerie",
+      "format": "3:4",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "scene-metier",
+      "pieges": [],
+      "consigne": "Looking up the stairwell of an eighteenth-century townhouse, a pale limestone staircase spiralling upwards with an elegant wrought-iron banister, warm light falling from a high window, nobody. Vertical composition, aspect ratio 3:4, main subject well inside the central area with generous margins on every side, so the image can be cropped. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "contact-porte",
+      "fichier": "contact-porte.jpg",
+      "page": "Contact",
+      "emplacement": "ouverture (venir au cabinet)",
+      "role": "portrait",
+      "format": "4:5",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "portrait-generique",
+      "pieges": [],
+      "consigne": "A tall carved oak carriage door painted deep night blue in a pale blond limestone facade, one leaf ajar with warm light inside, brass door knocker, worn stone threshold, golden late-afternoon light, nobody, no number plate, no signs. Vertical composition, aspect ratio 4:5, main subject well inside the central area with generous margins on every side, so the image can be cropped. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "404",
+      "fichier": "404.jpg",
+      "page": "404",
+      "emplacement": "page introuvable",
+      "role": "404",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Conseillée",
+      "gabarit": "404",
+      "pieges": [
+        "texte parasite"
+      ],
+      "consigne": "An empty oak desk by a limestone wall, a closed linen notebook, a brass fountain pen and a small brass magnifying glass lying beside it, an open drawer that is empty, soft morning light, calm and tidy, a gentle touch of humour. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, generous empty space on the left third of the frame for a title. Cinematic editorial photograph, calm, warm, timeless and trustworthy mood, palette of pale blond limestone, warm ivory, deep night-blue shadows and soft brushed gold, low golden late-afternoon Mediterranean sunlight raking across stone, tactile blond limestone, aged oak, brushed brass, linen paper and wrought iron, set in the historic pedestrian old town of a mid-sized city in the south of France, eighteenth-century townhouses in pale limestone, at human scale, nothing like a monument or a tourist square on a clear autumn day, fine 35mm film grain, shallow depth of field, calm and serious, modern premium magazine look. No numbers, no prices, no currency symbols, no upward trend, no gold coins, no banknotes, no piggy bank, no stock-photo handshake, no readable chart, no recognizable face. Pages completely blank, blank book spines, abstract unreadable marks, plain unmarked surfaces, dials with tick marks only and no numbers. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    }
+  ]
+}

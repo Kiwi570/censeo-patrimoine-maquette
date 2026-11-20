@@ -1,0 +1,243 @@
+[
+ {
+  "source": "recu/grok/accueil-ouverture.jpg",
+  "source_mobile": "recu/grok/accueil-ouverture-mobile.jpg",
+  "nom": "grok/accueil-ouverture",
+  "role": "ouverture",
+  "mobile": true,
+  "zone_texte": "gauche",
+  "page": "Accueil",
+  "emplacement": "ouverture (photo dans une arche, puis plein écran)",
+  "priorite": "Indispensable",
+  "consigne_scene": "The inner courtyard of an eighteenth-century townhouse in pale blond limestone, seen through its tall round-arched carriage entrance, a monumental stone staircase with a wrought-iron banister in the warm light at the back, potted olive tree, worn stone paving, nobody, the arch and staircase centred in the frame",
+  "alt": "Cour intérieure d'un hôtel particulier en pierre blonde, escalier de pierre au fond",
+  "beaute": 5,
+  "cadrage": [
+   50,
+   55
+  ]
+ },
+ {
+  "source": "recu/grok/accueil-financier.jpg",
+  "nom": "grok/accueil-financier",
+  "role": "carte-service",
+  "page": "Accueil",
+  "emplacement": "carte « Offre financière »",
+  "priorite": "Indispensable",
+  "consigne_scene": "An oak desk by a tall window in a room with pale limestone walls, an open linen-bound notebook with handwritten lines too small to read, a brass fountain pen, a closed leather folder and a small potted plant, warm raking light, nobody",
+  "alt": "Bureau en chêne près d'une haute fenêtre, carnet ouvert et stylo plume",
+  "beaute": 4
+ },
+ {
+  "source": "recu/grok/accueil-immobilier.jpg",
+  "nom": "grok/accueil-immobilier",
+  "role": "carte-service",
+  "page": "Accueil",
+  "emplacement": "carte « Offre immobilière »",
+  "priorite": "Indispensable",
+  "consigne_scene": "Looking up at the facade of an eighteenth-century townhouse in pale blond limestone, tall windows with grey-blue wooden shutters and delicate wrought-iron balconies, a strip of deep blue sky at the top, golden light on the stone, nobody, no signs",
+  "alt": "Façade d'immeuble ancien en pierre blonde, volets et balcons en fer forgé",
+  "beaute": 5
+ },
+ {
+  "source": "recu/grok/pierre-texture.jpg",
+  "nom": "grok/pierre-texture",
+  "role": "section-fond",
+  "page": "Accueil",
+  "emplacement": "matière des pierres de la section « Pierre à pierre »",
+  "priorite": "Indispensable",
+  "gabarit": "texture",
+  "consigne_scene": "Macro photograph of a flat wall of dressed blond limestone ashlar blocks with thin lime mortar joints, fine fossil shell texture in the stone, perfectly even soft lighting, seamless texture filling the whole frame, no objects",
+  "alt": "",
+  "beaute": 4
+ },
+ {
+  "source": "recu/grok/accueil-bureau.jpg",
+  "nom": "grok/accueil-bureau",
+  "role": "section-fond",
+  "zone_texte": "droite",
+  "page": "Accueil",
+  "emplacement": "section « Le conseiller »",
+  "priorite": "Indispensable",
+  "gabarit": "lieu",
+  "consigne_scene": "A quiet consulting room on the first floor of an old limestone townhouse, a round oak table with two upholstered chairs facing each other, a closed notebook and a glass carafe on the table, tall window with wooden shutters half open, bookshelves in soft focus, warm afternoon light, nobody",
+  "alt": "Bureau de rendez-vous : table ronde en chêne et deux fauteuils près d'une haute fenêtre",
+  "beaute": 5
+ },
+ {
+  "source": "recu/contact-censeo-patrimoine.png",
+  "nom": "portrait-kassigian",
+  "role": "portrait",
+  "page": "Accueil",
+  "emplacement": "portrait du conseiller (taille moyenne, dans une arche)",
+  "beaute": 3,
+  "cadrage": [
+   52,
+   38
+  ],
+  "alt": "Jean-Marie Kassigian, conseiller en gestion de patrimoine"
+ },
+ {
+  "source": "recu/grok/accueil-rue.jpg",
+  "nom": "grok/accueil-rue",
+  "role": "section-fond",
+  "zone_texte": "gauche",
+  "page": "Accueil",
+  "emplacement": "section « La rue dorée »",
+  "priorite": "Indispensable",
+  "consigne_scene": "A narrow pedestrian street of an old town in the south of France in early morning, pale blond limestone facades, ground-floor shop fronts with blank wooden signboards, wrought-iron balconies, warm sunlight reaching the upper floors and the paving still in soft shade, two passers-by far away as small blurred silhouettes",
+  "alt": "Rue piétonne de vieille ville en pierre blonde au soleil du matin",
+  "beaute": 4,
+  "cadrage": [
+   62,
+   50
+  ]
+ },
+ {
+  "source": "recu/grok/accueil-loge.jpg",
+  "nom": "grok/accueil-loge",
+  "role": "section-fond",
+  "zone_texte": "haut",
+  "page": "Accueil",
+  "emplacement": "appel final (rendez-vous)",
+  "priorite": "Conseillée",
+  "consigne_scene": "A row of three stone arcades of an old merchants' loggia in pale limestone at dusk, warm lantern light glowing under the vaults, deep night-blue sky above, smooth worn paving, nobody, calm and quiet",
+  "alt": "Arcades de pierre éclairées à la tombée du jour",
+  "beaute": 3,
+  "cadrage": [
+   72,
+   62
+  ]
+ },
+ {
+  "source": "recu/grok/financiere-ouverture.jpg",
+  "nom": "grok/financiere-ouverture",
+  "role": "section-fond",
+  "ratio": "21:9",
+  "zone_texte": "haut",
+  "page": "Offre financière",
+  "emplacement": "bandeau sous le grand titre",
+  "priorite": "Indispensable",
+  "consigne_scene": "A long oak library table seen from the side in a room with pale limestone walls, an open notebook, a brass desk lamp, a small stack of linen-bound reports with blank covers and a pair of reading glasses, all objects grouped in the central third of the frame, soft golden window light from the left, nobody",
+  "alt": "Grande table de travail en chêne, carnet, lampe en laiton et rapports reliés",
+  "beaute": 5
+ },
+ {
+  "source": "recu/grok/financiere-forets.jpg",
+  "nom": "grok/financiere-forets",
+  "role": "galerie",
+  "page": "Offre financière",
+  "emplacement": "carte « Bois, forêts et terres agricoles »",
+  "priorite": "Indispensable",
+  "consigne_scene": "A managed forest of tall straight oak and pine trees on gentle hills in the south of France, sunlight filtering through the canopy in long golden rays, a soft carpet of leaves and a forest track, nobody",
+  "alt": "Forêt de chênes et de pins traversée par la lumière",
+  "beaute": 4,
+  "cadrage": [
+   55,
+   55
+  ]
+ },
+ {
+  "source": "recu/grok/financiere-art.jpg",
+  "nom": "grok/financiere-art",
+  "role": "galerie",
+  "page": "Offre financière",
+  "emplacement": "carte « Œuvres d'art »",
+  "priorite": "Conseillée",
+  "consigne_scene": "A quiet private gallery room with a pale limestone wall and an oak floor, two large framed abstract colour-field paintings in ochre and night blue seen at an angle, a wooden bench, soft overhead light, nobody",
+  "alt": "Salle de galerie calme avec deux grandes toiles abstraites",
+  "beaute": 4
+ },
+ {
+  "source": "recu/grok/financiere-entreprises.jpg",
+  "nom": "grok/financiere-entreprises",
+  "role": "galerie",
+  "page": "Offre financière",
+  "emplacement": "carte « Capital investissement »",
+  "priorite": "Conseillée",
+  "consigne_scene": "A bright workshop of a small innovative company in a converted stone building, prototypes and wooden models on a long workbench, plants, large windows, two people working in the background in soft motion blur so no face is visible",
+  "alt": "Atelier lumineux d'une jeune entreprise, prototypes sur l'établi",
+  "beaute": 4
+ },
+ {
+  "source": "recu/grok/immobiliere-ouverture.jpg",
+  "source_mobile": "recu/grok/immobiliere-ouverture-mobile.jpg",
+  "nom": "grok/immobiliere-ouverture",
+  "role": "ouverture",
+  "mobile": true,
+  "zone_texte": "bas",
+  "page": "Offre immobilière",
+  "emplacement": "ouverture plein cadre",
+  "priorite": "Indispensable",
+  "consigne_scene": "A small quiet square in an old town in the south of France at golden hour, eighteenth-century townhouses in pale blond limestone with tall shuttered windows and wrought-iron balconies, a plane tree, worn stone paving, nobody, no shop signs",
+  "alt": "Petite place de vieille ville bordée d'immeubles en pierre blonde, au soleil couchant",
+  "beaute": 5
+ },
+ {
+  "source": "recu/grok/immobiliere-scpi.jpg",
+  "nom": "grok/immobiliere-scpi",
+  "role": "vignette",
+  "page": "Offre immobilière",
+  "emplacement": "SCPI",
+  "priorite": "Indispensable",
+  "consigne_scene": "A modern mixed-use building in a French city centre: ground-floor shop fronts with blank glass and no signs, offices with large windows above, clean pale stone and glass facade, soft morning light, a few blurred passers-by far away",
+  "alt": "Immeuble de commerces et de bureaux en centre-ville",
+  "beaute": 4
+ },
+ {
+  "source": "recu/grok/immobiliere-nue-propriete.jpg",
+  "nom": "grok/immobiliere-nue-propriete",
+  "role": "vignette",
+  "page": "Offre immobilière",
+  "emplacement": "Nue-propriété",
+  "priorite": "Indispensable",
+  "consigne_scene": "A bright empty apartment living room with herringbone oak parquet, tall French windows open onto a small wrought-iron balcony, white walls and moulded ceiling, warm afternoon sun on the floor, nobody, no furniture",
+  "alt": "Séjour vide et lumineux, parquet en chevrons et porte-fenêtre",
+  "beaute": 4
+ },
+ {
+  "source": "recu/grok/immobiliere-usa.jpg",
+  "nom": "grok/immobiliere-usa",
+  "role": "vignette",
+  "page": "Offre immobilière",
+  "emplacement": "Immobilier aux États-Unis",
+  "priorite": "Conseillée",
+  "consigne_scene": "A single-storey suburban family house in a warm subtropical climate, light stucco walls, a low roof, a green lawn and two palm trees, clear blue sky, late-afternoon light, nobody, no cars, no signs",
+  "alt": "Maison individuelle de plain-pied avec pelouse et palmiers",
+  "beaute": 3
+ },
+ {
+  "source": "recu/grok/cabinet-escalier.jpg",
+  "nom": "grok/cabinet-escalier",
+  "role": "galerie",
+  "page": "Le cabinet",
+  "emplacement": "ouverture (à côté du grand « 2004 »)",
+  "priorite": "Indispensable",
+  "consigne_scene": "Looking up the stairwell of an eighteenth-century townhouse, a pale limestone staircase spiralling upwards with an elegant wrought-iron banister, warm light falling from a high window, nobody",
+  "alt": "Escalier de pierre en colimaçon et sa rampe en fer forgé",
+  "beaute": 5
+ },
+ {
+  "source": "recu/grok/contact-porte.jpg",
+  "nom": "grok/contact-porte",
+  "role": "portrait",
+  "page": "Contact",
+  "emplacement": "ouverture (venir au cabinet)",
+  "priorite": "Indispensable",
+  "consigne_scene": "A tall carved oak carriage door painted deep night blue in a pale blond limestone facade, one leaf ajar with warm light inside, brass door knocker, worn stone threshold, golden late-afternoon light, nobody, no number plate, no signs",
+  "alt": "Grande porte cochère bleu nuit dans une façade en pierre blonde",
+  "beaute": 5
+ },
+ {
+  "source": "recu/grok/404.jpg",
+  "nom": "grok/404",
+  "role": "404",
+  "zone_texte": "gauche",
+  "page": "404",
+  "emplacement": "page introuvable",
+  "priorite": "Conseillée",
+  "consigne_scene": "An empty oak desk by a limestone wall, a closed linen notebook, a brass fountain pen and a small brass magnifying glass lying beside it, an open drawer that is empty, soft morning light, calm and tidy, a gentle touch of humour",
+  "alt": "Bureau vide, carnet fermé et loupe en laiton",
+  "beaute": 4
+ }
+]
